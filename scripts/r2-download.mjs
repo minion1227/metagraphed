@@ -1,7 +1,7 @@
 import { spawnSync } from "node:child_process";
 import path from "node:path";
-import { mkdir } from "node:fs/promises";
-import { readJson, repoRoot, stableStringify } from "./lib.mjs";
+import { mkdir, readFile } from "node:fs/promises";
+import { readJson, repoRoot, sha256Hex, stableStringify } from "./lib.mjs";
 
 const args = new Set(process.argv.slice(2));
 const write = args.has("--write");
@@ -13,6 +13,7 @@ const outputDir = outputDirArg ? outputDirArg.slice("--out=".length) : "tmp/r2-d
 const planned = manifest.artifacts.map((artifact) => ({
   key: `${prefix}${artifact.path.replace(/^\/metagraph\//, "")}`,
   local_path: path.join(outputDir, artifact.path.replace(/^\/metagraph\//, "")),
+  sha256: artifact.sha256,
   size_bytes: artifact.size_bytes
 }));
 
@@ -36,9 +37,17 @@ if (process.env.METAGRAPH_ALLOW_R2_DOWNLOAD !== "1") {
 for (const artifact of planned) {
   await mkdir(path.dirname(artifact.local_path), { recursive: true });
   getObject(artifact.key, artifact.local_path, manifest.bucket_name);
+  await verifyDownloadedArtifact(artifact);
 }
 
 console.log(`Downloaded ${planned.length} artifact(s) from R2 bucket ${manifest.bucket_name}.`);
+
+async function verifyDownloadedArtifact(artifact) {
+  const actual = sha256Hex(await readFile(artifact.local_path));
+  if (actual !== artifact.sha256) {
+    throw new Error(`downloaded artifact hash mismatch for ${artifact.key}: expected ${artifact.sha256}, got ${actual}`);
+  }
+}
 
 function getObject(key, localPath, bucketName) {
   const result = spawnSync(

@@ -1,6 +1,6 @@
 import path from "node:path";
-import { stat } from "node:fs/promises";
-import { buildTimestamp, listJsonFilesRecursive, readJson, repoRoot, stableStringify, writeJson } from "./lib.mjs";
+import { readFile, stat } from "node:fs/promises";
+import { buildTimestamp, listJsonFilesRecursive, readJson, repoRoot, sha256Hex, stableStringify, writeJson } from "./lib.mjs";
 
 const args = new Set(process.argv.slice(2));
 const write = args.has("--write");
@@ -21,7 +21,7 @@ if (write) {
 }
 
 for (const artifact of manifest.artifacts) {
-  if (!artifact.key || !artifact.latest_key || !artifact.path || !Number.isInteger(artifact.size_bytes)) {
+  if (!artifact.key || !artifact.latest_key || !artifact.path || !artifact.sha256 || !Number.isInteger(artifact.size_bytes)) {
     console.error(`Invalid R2 manifest artifact entry: ${stableStringify(artifact)}`);
     process.exit(1);
   }
@@ -39,12 +39,14 @@ async function buildManifest() {
     if (["build-summary.json", "r2-manifest.json"].includes(relative)) {
       continue;
     }
+    const raw = await readFile(file);
     const fileStat = await stat(file);
     artifacts.push({
       content_type: "application/json",
       key: `runs/${version}/${relative}`,
       latest_key: `latest/${relative}`,
       path: `/metagraph/${relative}`,
+      sha256: sha256Hex(raw),
       size_bytes: fileStat.size
     });
   }

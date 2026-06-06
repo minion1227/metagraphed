@@ -7,6 +7,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/adapters/allways.json",
       "latest_key": "latest/adapters/allways.json",
       "path": "/metagraph/adapters/allways.json",
+      "sha256": "66fb8f73283484721359245e817637d3a4a68c10c92970e417a08db32bedbb78",
       "size_bytes": 8275
     },
     {
@@ -14,6 +15,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/adapters/gittensor.json",
       "latest_key": "latest/adapters/gittensor.json",
       "path": "/metagraph/adapters/gittensor.json",
+      "sha256": "65904330194adb6691d7976b4e70c7e324e65210e82794ebe547014e24ab8a2e",
       "size_bytes": 4993
     },
     {
@@ -21,6 +23,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/api-index.json",
       "latest_key": "latest/api-index.json",
       "path": "/metagraph/api-index.json",
+      "sha256": "7213a799f6d1759ddd64c2ff863117f434241209085564fc833c1bf7fc4aba28",
       "size_bytes": 16843
     },
     {
@@ -28,6 +31,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/candidates.json",
       "latest_key": "latest/candidates.json",
       "path": "/metagraph/candidates.json",
+      "sha256": "ab108deb0ef853ee49b1049c2ca70551cff3d4fdaf19054a9cf96378af2446ce",
       "size_bytes": 1845740
     },
     {
@@ -35,6 +39,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/changelog.json",
       "latest_key": "latest/changelog.json",
       "path": "/metagraph/changelog.json",
+      "sha256": "aadb1fab853ce37cee7dc039219cee5784cac6c401d3bd3946aabc6cfcb3da54",
       "size_bytes": 2447
     },
     {
@@ -42,6 +47,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/contracts.json",
       "latest_key": "latest/contracts.json",
       "path": "/metagraph/contracts.json",
+      "sha256": "8e8ecd497d3a05db3a642035e90945e6875aa1e4ac4895359ab586866efed1ae",
       "size_bytes": 10730
     },
     {
@@ -49,6 +55,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/coverage.json",
       "latest_key": "latest/coverage.json",
       "path": "/metagraph/coverage.json",
+      "sha256": "d1606de241b77dde05481fb1dcee520efb0c8f90f99ad5965f1598611014a30b",
       "size_bytes": 981
     },
     {
@@ -56,6 +63,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/curation.json",
       "latest_key": "latest/curation.json",
       "path": "/metagraph/curation.json",
+      "sha256": "e01b9e1b246081cca2b4532d40ff2113253179157576ce789345f6f860c9428f",
       "size_bytes": 151847
     },
     {
@@ -63,6 +71,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/evidence-ledger.json",
       "latest_key": "latest/evidence-ledger.json",
       "path": "/metagraph/evidence-ledger.json",
+      "sha256": "44f761eefc04a1afde1da5f7d7eec08e5e1f37dcd23a35082508b3952106be00",
       "size_bytes": 572789
     },
     {
@@ -70,6 +79,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/freshness.json",
       "latest_key": "latest/freshness.json",
       "path": "/metagraph/freshness.json",
+      "sha256": "9ae051dfd430ed40162b6845db1f157fef8350ef071714d81f77154667069485",
       "size_bytes": 1572
     },
     {
@@ -77,6 +87,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/gaps.json",
       "latest_key": "latest/gaps.json",
       "path": "/metagraph/gaps.json",
+      "sha256": "250cd6678535db3f5723e097643dbfa13d7cc3c1e0c4ba71e784b3c7c0912e6c",
       "size_bytes": 88072
     },
     {
@@ -84,6 +95,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/0.json",
       "latest_key": "latest/health/badges/0.json",
       "path": "/metagraph/health/badges/0.json",
+      "sha256": "394540c7407114f07d65080dae632f595156cad5c67882054df29acee40e360a",
       "size_bytes": 291
     },
     {
@@ -91,6 +103,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/1.json",
       "latest_key": "latest/health/badges/1.json",
       "path": "/metagraph/health/badges/1.json",
+      "sha256": "351fcd0c19bac1078e6a4eea3ed884338a3b4d18c50c94b1428eb2c3ce052b71",
       "size_bytes": 289
     },
     {
@@ -98,6 +111,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/10.json",
       "latest_key": "latest/health/badges/10.json",
       "path": "/metagraph/health/badges/10.json",
+      "sha256": "710c2e9917b910096270d066f5b159a3ff1c7bd0b01632453f7fc2d0fff3ba1e",
       "size_bytes": 291
     },
     {
@@ -105,6 +119,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/100.json",
       "latest_key": "latest/health/badges/100.json",
       "path": "/metagraph/health/badges/100.json",
+      "sha256": "70da57ae8075e8d964aae65326a5cb92415556a0574fa8e08203d8bf7b7bc2f1",
       "size_bytes": 293
     },
     {
@@ -112,6 +127,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/101.json",
       "latest_key": "latest/health/badges/101.json",
       "path": "/metagraph/health/badges/101.json",
+      "sha256": "172ca2da90f53b82793769785a4a5c458a38103d07f40c3448ba8844409e4eb7",
       "size_bytes": 293
     },
     {
@@ -119,6 +135,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/102.json",
       "latest_key": "latest/health/badges/102.json",
       "path": "/metagraph/health/badges/102.json",
+      "sha256": "7b22629f79578b4a9b2672254f376885156a68d327144dd65afc02d2515f3cb3",
       "size_bytes": 293
     },
     {
@@ -126,6 +143,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/103.json",
       "latest_key": "latest/health/badges/103.json",
       "path": "/metagraph/health/badges/103.json",
+      "sha256": "235457650a4ff85dcc23f7b6ccdef84cdc2e5ee47b139930e8be5b1c6ce17362",
       "size_bytes": 293
     },
     {
@@ -133,6 +151,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/104.json",
       "latest_key": "latest/health/badges/104.json",
       "path": "/metagraph/health/badges/104.json",
+      "sha256": "f6fe40daac5ee18354a3c06c32edfc3868ca54a8cefccc072645f340d5dc34bf",
       "size_bytes": 293
     },
     {
@@ -140,6 +159,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/105.json",
       "latest_key": "latest/health/badges/105.json",
       "path": "/metagraph/health/badges/105.json",
+      "sha256": "c83c36c85e7bd76a95956e83ae26cf2add6a600ad8877f168e7d60cac2b8e7d4",
       "size_bytes": 293
     },
     {
@@ -147,6 +167,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/106.json",
       "latest_key": "latest/health/badges/106.json",
       "path": "/metagraph/health/badges/106.json",
+      "sha256": "13c9bbeb7a710dd63141880ffe40b593668766d8cb516895bf4476d1301677b3",
       "size_bytes": 293
     },
     {
@@ -154,6 +175,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/107.json",
       "latest_key": "latest/health/badges/107.json",
       "path": "/metagraph/health/badges/107.json",
+      "sha256": "bf0a1f0a67b2630c13f7da6f0d81e1470f54d1d78c369b5f7a6338804ae399d3",
       "size_bytes": 293
     },
     {
@@ -161,6 +183,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/108.json",
       "latest_key": "latest/health/badges/108.json",
       "path": "/metagraph/health/badges/108.json",
+      "sha256": "b25e4629cf01dee6ee339104bbc2b3c351bb4ab71be36a653589985e5478c9ab",
       "size_bytes": 293
     },
     {
@@ -168,6 +191,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/109.json",
       "latest_key": "latest/health/badges/109.json",
       "path": "/metagraph/health/badges/109.json",
+      "sha256": "d11d8610786c452fea807d8c0b0ff8ddeba5fd34e39e6c4af10f6f32be06cf76",
       "size_bytes": 293
     },
     {
@@ -175,6 +199,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/11.json",
       "latest_key": "latest/health/badges/11.json",
       "path": "/metagraph/health/badges/11.json",
+      "sha256": "e99d22e6ca0afd9bab4f02dd4876f567ecd7f017643f8891b02ac1172f4d0427",
       "size_bytes": 291
     },
     {
@@ -182,6 +207,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/110.json",
       "latest_key": "latest/health/badges/110.json",
       "path": "/metagraph/health/badges/110.json",
+      "sha256": "5659245756591041d922d0576254d92cb7dd6f3721117ee5077a3a2e3bd273c5",
       "size_bytes": 293
     },
     {
@@ -189,6 +215,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/111.json",
       "latest_key": "latest/health/badges/111.json",
       "path": "/metagraph/health/badges/111.json",
+      "sha256": "d5df12b6b0329d953776f0f28e999c4d8e227413078d08e854e60b75e98258bc",
       "size_bytes": 293
     },
     {
@@ -196,6 +223,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/112.json",
       "latest_key": "latest/health/badges/112.json",
       "path": "/metagraph/health/badges/112.json",
+      "sha256": "8c9826d7d1e6af2e5cedc59e6d690ccf2d197d5aa5920d8774ce79577ed36320",
       "size_bytes": 293
     },
     {
@@ -203,6 +231,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/113.json",
       "latest_key": "latest/health/badges/113.json",
       "path": "/metagraph/health/badges/113.json",
+      "sha256": "700ba77fb4b38557a403bbd5bbdc98430eed45f57bfdc689ce90689119080a62",
       "size_bytes": 293
     },
     {
@@ -210,6 +239,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/114.json",
       "latest_key": "latest/health/badges/114.json",
       "path": "/metagraph/health/badges/114.json",
+      "sha256": "f888a645c8c3fda0a01be898a25dbcb6e25dd9ccb6738f5b393173e5f7ac5dd8",
       "size_bytes": 293
     },
     {
@@ -217,6 +247,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/115.json",
       "latest_key": "latest/health/badges/115.json",
       "path": "/metagraph/health/badges/115.json",
+      "sha256": "32208ba8c830994559848f9fa07bd1cef80073a55df8dab3d0b6b0cc2337626f",
       "size_bytes": 293
     },
     {
@@ -224,6 +255,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/116.json",
       "latest_key": "latest/health/badges/116.json",
       "path": "/metagraph/health/badges/116.json",
+      "sha256": "508482409d3436a3243b3377d6d7e083a687550d133085882bf9b15c505a565d",
       "size_bytes": 293
     },
     {
@@ -231,6 +263,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/117.json",
       "latest_key": "latest/health/badges/117.json",
       "path": "/metagraph/health/badges/117.json",
+      "sha256": "3dc0027786abf48b555f81e865f509500237603a3f2888a8c5a3620be43d52e9",
       "size_bytes": 293
     },
     {
@@ -238,6 +271,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/118.json",
       "latest_key": "latest/health/badges/118.json",
       "path": "/metagraph/health/badges/118.json",
+      "sha256": "f0c9eb64c6d32af73ac44f1578f4f73560c4ee31ba00f065aec549d3d1193e46",
       "size_bytes": 293
     },
     {
@@ -245,6 +279,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/119.json",
       "latest_key": "latest/health/badges/119.json",
       "path": "/metagraph/health/badges/119.json",
+      "sha256": "97e07f66b91b53bb45822ba406ccb06d2114d3ec9123e99fdeb608bf5530d776",
       "size_bytes": 293
     },
     {
@@ -252,6 +287,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/12.json",
       "latest_key": "latest/health/badges/12.json",
       "path": "/metagraph/health/badges/12.json",
+      "sha256": "04de0f7a6d37b326b925bb51b0ecb49ada607db114fd73b0db8aa9a67f0c202e",
       "size_bytes": 291
     },
     {
@@ -259,6 +295,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/120.json",
       "latest_key": "latest/health/badges/120.json",
       "path": "/metagraph/health/badges/120.json",
+      "sha256": "79925c86ffdd9e4de87ce9443ca0f7a8290238c1b177fa9e469ec3e5dec7525a",
       "size_bytes": 293
     },
     {
@@ -266,6 +303,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/121.json",
       "latest_key": "latest/health/badges/121.json",
       "path": "/metagraph/health/badges/121.json",
+      "sha256": "30b65b5c8ea28b11125154164eceb59b61090fda81859befa405bbd559043d13",
       "size_bytes": 293
     },
     {
@@ -273,6 +311,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/122.json",
       "latest_key": "latest/health/badges/122.json",
       "path": "/metagraph/health/badges/122.json",
+      "sha256": "ac1cc3530fa62e72cb8990ac913082a451604b77b2f9ba27de0e19b1afb2f1bc",
       "size_bytes": 293
     },
     {
@@ -280,6 +319,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/123.json",
       "latest_key": "latest/health/badges/123.json",
       "path": "/metagraph/health/badges/123.json",
+      "sha256": "9c9fe635f234f8b2c839ce4bdebd91e8868459ed918a261f400ee115361c68e6",
       "size_bytes": 293
     },
     {
@@ -287,6 +327,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/124.json",
       "latest_key": "latest/health/badges/124.json",
       "path": "/metagraph/health/badges/124.json",
+      "sha256": "332fdbefe906694b135b662a789427d5d1c12ecb2511e35832218562afa8becf",
       "size_bytes": 293
     },
     {
@@ -294,6 +335,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/125.json",
       "latest_key": "latest/health/badges/125.json",
       "path": "/metagraph/health/badges/125.json",
+      "sha256": "aa43b334edb1cfc708b554fbccd45d48ca8ddade8708b334935e58724c334cad",
       "size_bytes": 293
     },
     {
@@ -301,6 +343,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/126.json",
       "latest_key": "latest/health/badges/126.json",
       "path": "/metagraph/health/badges/126.json",
+      "sha256": "7dd201eee8bb35aed4d2a1840e97c861a33c2e65e9ed11ed3ce29ddac1add47a",
       "size_bytes": 293
     },
     {
@@ -308,6 +351,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/127.json",
       "latest_key": "latest/health/badges/127.json",
       "path": "/metagraph/health/badges/127.json",
+      "sha256": "cfe65f3164760a987f9ffbc813091b6d75f68d9c7d539725fa5ca02e68fb5167",
       "size_bytes": 293
     },
     {
@@ -315,6 +359,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/128.json",
       "latest_key": "latest/health/badges/128.json",
       "path": "/metagraph/health/badges/128.json",
+      "sha256": "c53752278792040e26904f705e794576adde31ef792e93350baaee805ad467f4",
       "size_bytes": 293
     },
     {
@@ -322,6 +367,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/13.json",
       "latest_key": "latest/health/badges/13.json",
       "path": "/metagraph/health/badges/13.json",
+      "sha256": "8b347e8839cb40f82f2a2542b98d018387aa952daf1bcc9b7e80ac236fd33d3e",
       "size_bytes": 291
     },
     {
@@ -329,6 +375,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/14.json",
       "latest_key": "latest/health/badges/14.json",
       "path": "/metagraph/health/badges/14.json",
+      "sha256": "b02dc0f3b705b539f84d923a187ec65954c95c8054f1767df30236d05d9139d9",
       "size_bytes": 293
     },
     {
@@ -336,6 +383,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/15.json",
       "latest_key": "latest/health/badges/15.json",
       "path": "/metagraph/health/badges/15.json",
+      "sha256": "4c394b3c0a0f416af331dfae6ada93dda1dc6c2181e088012c24fd5abc9d2ef1",
       "size_bytes": 291
     },
     {
@@ -343,6 +391,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/16.json",
       "latest_key": "latest/health/badges/16.json",
       "path": "/metagraph/health/badges/16.json",
+      "sha256": "a7c614866bd9b8a450327ac9e372d25fad579364b773ec0b859fec4b904da0c6",
       "size_bytes": 291
     },
     {
@@ -350,6 +399,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/17.json",
       "latest_key": "latest/health/badges/17.json",
       "path": "/metagraph/health/badges/17.json",
+      "sha256": "e9e9fda5f0ee6d41474d109f9b17ddf38a1069751ff0bd030d501b4c20ceceeb",
       "size_bytes": 291
     },
     {
@@ -357,6 +407,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/18.json",
       "latest_key": "latest/health/badges/18.json",
       "path": "/metagraph/health/badges/18.json",
+      "sha256": "61116246e78fe2bc197aac20980b486fe727d56b564c48d9ed4b23dc541e00c6",
       "size_bytes": 291
     },
     {
@@ -364,6 +415,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/19.json",
       "latest_key": "latest/health/badges/19.json",
       "path": "/metagraph/health/badges/19.json",
+      "sha256": "2a3b60a024bea568f0abc8a392659e9ea07fd4fd67efbfbbf7f5bdd0aa4ccef5",
       "size_bytes": 291
     },
     {
@@ -371,6 +423,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/2.json",
       "latest_key": "latest/health/badges/2.json",
       "path": "/metagraph/health/badges/2.json",
+      "sha256": "c9479e6db6aa225f90a4197674f90e0efad4d5f7257920209bf96f3c7c51d7b1",
       "size_bytes": 289
     },
     {
@@ -378,6 +431,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/20.json",
       "latest_key": "latest/health/badges/20.json",
       "path": "/metagraph/health/badges/20.json",
+      "sha256": "c7fc6584a8c896dc317781a48fb22cbc4c26e4a8bd9894858f0e76dc16166035",
       "size_bytes": 291
     },
     {
@@ -385,6 +439,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/21.json",
       "latest_key": "latest/health/badges/21.json",
       "path": "/metagraph/health/badges/21.json",
+      "sha256": "8d28fdb29567ec2dfaf6a72037bf9152672654b0a79745ac5953faf666f8e473",
       "size_bytes": 291
     },
     {
@@ -392,6 +447,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/22.json",
       "latest_key": "latest/health/badges/22.json",
       "path": "/metagraph/health/badges/22.json",
+      "sha256": "513c0f57230feb69ca2f4750f984a56edca45a001346247d55811f564a818b9d",
       "size_bytes": 291
     },
     {
@@ -399,6 +455,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/23.json",
       "latest_key": "latest/health/badges/23.json",
       "path": "/metagraph/health/badges/23.json",
+      "sha256": "cd10d9fd59a5b0d3a69fb03eb9047bc8bfaa12d3f1aabbfa09bf8ce3d4270a42",
       "size_bytes": 291
     },
     {
@@ -406,6 +463,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/24.json",
       "latest_key": "latest/health/badges/24.json",
       "path": "/metagraph/health/badges/24.json",
+      "sha256": "ea9f12d12084e78e0737a04f5483afcd53d3fd5318c73a344d5bacffebcff295",
       "size_bytes": 291
     },
     {
@@ -413,6 +471,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/25.json",
       "latest_key": "latest/health/badges/25.json",
       "path": "/metagraph/health/badges/25.json",
+      "sha256": "c8f9a577ef1eb5f51d9d801a399d2744aab989c73d3e8659975393591619710e",
       "size_bytes": 291
     },
     {
@@ -420,6 +479,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/26.json",
       "latest_key": "latest/health/badges/26.json",
       "path": "/metagraph/health/badges/26.json",
+      "sha256": "db2b9b7f2edb316fb153178f3afedfa77fe9c958dbe9f89cb42271c6eb7742fa",
       "size_bytes": 291
     },
     {
@@ -427,6 +487,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/27.json",
       "latest_key": "latest/health/badges/27.json",
       "path": "/metagraph/health/badges/27.json",
+      "sha256": "2034d9a44284c990689d28f4f200c06d9fbe53415f417bc70fc74e37477e5a4c",
       "size_bytes": 291
     },
     {
@@ -434,6 +495,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/28.json",
       "latest_key": "latest/health/badges/28.json",
       "path": "/metagraph/health/badges/28.json",
+      "sha256": "746982183f012e3c5ebf23b762bb7cb00f35199cb6cbdeac17d76764fd5d3239",
       "size_bytes": 291
     },
     {
@@ -441,6 +503,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/29.json",
       "latest_key": "latest/health/badges/29.json",
       "path": "/metagraph/health/badges/29.json",
+      "sha256": "6b42d4dc7cd58a267c7f57ba2cb55901b8aaa09e1ea7e802725faba8ec9a92aa",
       "size_bytes": 291
     },
     {
@@ -448,6 +511,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/3.json",
       "latest_key": "latest/health/badges/3.json",
       "path": "/metagraph/health/badges/3.json",
+      "sha256": "a60701140257c26a8ddff5e95fb03ab711d41f71b0b1acdab6178b7567331b75",
       "size_bytes": 289
     },
     {
@@ -455,6 +519,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/30.json",
       "latest_key": "latest/health/badges/30.json",
       "path": "/metagraph/health/badges/30.json",
+      "sha256": "e39f7266ff707fb20f7df05a427d2dbaef86dc55a4d5bb3eae0b22b654905026",
       "size_bytes": 291
     },
     {
@@ -462,6 +527,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/31.json",
       "latest_key": "latest/health/badges/31.json",
       "path": "/metagraph/health/badges/31.json",
+      "sha256": "e0a8132335417ab5ade85a6a76038e2234df6193fdb85a48b37176b62b89bde1",
       "size_bytes": 291
     },
     {
@@ -469,6 +535,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/32.json",
       "latest_key": "latest/health/badges/32.json",
       "path": "/metagraph/health/badges/32.json",
+      "sha256": "b4338ea964fa43e81623546b06c7652a8e8370fdc7aba1b64cc1358732948115",
       "size_bytes": 291
     },
     {
@@ -476,6 +543,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/33.json",
       "latest_key": "latest/health/badges/33.json",
       "path": "/metagraph/health/badges/33.json",
+      "sha256": "5518122a5a932123721505b3ca555e961f6249751642ba468d6b684c578f1769",
       "size_bytes": 291
     },
     {
@@ -483,6 +551,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/34.json",
       "latest_key": "latest/health/badges/34.json",
       "path": "/metagraph/health/badges/34.json",
+      "sha256": "00e31ea3de60a5586d34707feeb7a388ac4baae6d7bdc0ebdb13fa9c897118f8",
       "size_bytes": 291
     },
     {
@@ -490,6 +559,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/35.json",
       "latest_key": "latest/health/badges/35.json",
       "path": "/metagraph/health/badges/35.json",
+      "sha256": "5b0c29812ee58e661ca7f5712a73253a2c5291f08d2c212c34d055dd521ca277",
       "size_bytes": 291
     },
     {
@@ -497,6 +567,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/36.json",
       "latest_key": "latest/health/badges/36.json",
       "path": "/metagraph/health/badges/36.json",
+      "sha256": "922d3ebc60356c35fce0950feedfd92d48439d6b65aff4cf28791d706ad6d079",
       "size_bytes": 291
     },
     {
@@ -504,6 +575,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/37.json",
       "latest_key": "latest/health/badges/37.json",
       "path": "/metagraph/health/badges/37.json",
+      "sha256": "54988fc22ee10f2e62d47c25e563f0e4664608e2004fd5123efd9d05e8b6696d",
       "size_bytes": 291
     },
     {
@@ -511,6 +583,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/38.json",
       "latest_key": "latest/health/badges/38.json",
       "path": "/metagraph/health/badges/38.json",
+      "sha256": "ccac20552741c8682f0e53be38a793cd0c5188792107dba64fa616dc3e24064f",
       "size_bytes": 291
     },
     {
@@ -518,6 +591,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/39.json",
       "latest_key": "latest/health/badges/39.json",
       "path": "/metagraph/health/badges/39.json",
+      "sha256": "4108f9a1b1effbe813e52f6d8ca1a0b97581fcd5819f19c9cae229161b0f7367",
       "size_bytes": 291
     },
     {
@@ -525,6 +599,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/4.json",
       "latest_key": "latest/health/badges/4.json",
       "path": "/metagraph/health/badges/4.json",
+      "sha256": "b26523d8af2a2d931300e49b377a0d2e2937ff422753d0c398ed794ea086d383",
       "size_bytes": 289
     },
     {
@@ -532,6 +607,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/40.json",
       "latest_key": "latest/health/badges/40.json",
       "path": "/metagraph/health/badges/40.json",
+      "sha256": "e5e12199d20242daf86b950da90fc42f9c56059ac2f30b458eafb4f72f57dc3a",
       "size_bytes": 291
     },
     {
@@ -539,6 +615,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/41.json",
       "latest_key": "latest/health/badges/41.json",
       "path": "/metagraph/health/badges/41.json",
+      "sha256": "3516d1a2a71f49f9f93c75b5ac964374b0b4e41aa70879761666cc1983d8bb98",
       "size_bytes": 291
     },
     {
@@ -546,6 +623,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/42.json",
       "latest_key": "latest/health/badges/42.json",
       "path": "/metagraph/health/badges/42.json",
+      "sha256": "a598f27c8312f0e790b32bcaf7e518547573b864b579d8d605bc03814fde2142",
       "size_bytes": 291
     },
     {
@@ -553,6 +631,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/43.json",
       "latest_key": "latest/health/badges/43.json",
       "path": "/metagraph/health/badges/43.json",
+      "sha256": "b8cb68105cd580980106d94c26da4130f794e1acebd0584e94aacae74745e9a4",
       "size_bytes": 291
     },
     {
@@ -560,6 +639,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/44.json",
       "latest_key": "latest/health/badges/44.json",
       "path": "/metagraph/health/badges/44.json",
+      "sha256": "a81c2561187ebe997aa5f754997089d2992182bd529dedf0c28fd26c72b0016a",
       "size_bytes": 291
     },
     {
@@ -567,6 +647,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/45.json",
       "latest_key": "latest/health/badges/45.json",
       "path": "/metagraph/health/badges/45.json",
+      "sha256": "5b61bb56ec9ab4446945550983c087213f0b8145d48a8a8e34763a6baad982d1",
       "size_bytes": 291
     },
     {
@@ -574,6 +655,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/46.json",
       "latest_key": "latest/health/badges/46.json",
       "path": "/metagraph/health/badges/46.json",
+      "sha256": "47e611eef1c2bf7a2fcddf44b38ca6f158088b7531bc453d63d6c650b136b81b",
       "size_bytes": 291
     },
     {
@@ -581,6 +663,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/47.json",
       "latest_key": "latest/health/badges/47.json",
       "path": "/metagraph/health/badges/47.json",
+      "sha256": "4b8bc9924e3c0c817947e041442e477dcd7dea68ef6a787ab81aef2a822b5ceb",
       "size_bytes": 291
     },
     {
@@ -588,6 +671,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/48.json",
       "latest_key": "latest/health/badges/48.json",
       "path": "/metagraph/health/badges/48.json",
+      "sha256": "5bdcb8b3d118e1a69ae3316b639ee3b5751c4557be4d4c12d645d5c1b778cd45",
       "size_bytes": 291
     },
     {
@@ -595,6 +679,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/49.json",
       "latest_key": "latest/health/badges/49.json",
       "path": "/metagraph/health/badges/49.json",
+      "sha256": "ed83b04267ce5fbf99ae5c4ef94d75c3ba7a1a10f6a5ed5a63c2900bcfadf75c",
       "size_bytes": 291
     },
     {
@@ -602,6 +687,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/5.json",
       "latest_key": "latest/health/badges/5.json",
       "path": "/metagraph/health/badges/5.json",
+      "sha256": "1f17466c49133a94dcaaf476a5e462c055c377201d7005135c76788c491deb18",
       "size_bytes": 289
     },
     {
@@ -609,6 +695,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/50.json",
       "latest_key": "latest/health/badges/50.json",
       "path": "/metagraph/health/badges/50.json",
+      "sha256": "9b9c3c954305cff205e1eb392ada29d165ed4437ff62381c573a425e9d1343c9",
       "size_bytes": 291
     },
     {
@@ -616,6 +703,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/51.json",
       "latest_key": "latest/health/badges/51.json",
       "path": "/metagraph/health/badges/51.json",
+      "sha256": "1957c2005ea826e58f1c4614569d9d30341648032d7e7eb436a15654ce69b66c",
       "size_bytes": 291
     },
     {
@@ -623,6 +711,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/52.json",
       "latest_key": "latest/health/badges/52.json",
       "path": "/metagraph/health/badges/52.json",
+      "sha256": "e1a3fa2e39ca061c8eb099c038c50c59efaf7b7b1808d57951ea2de3dd042464",
       "size_bytes": 293
     },
     {
@@ -630,6 +719,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/53.json",
       "latest_key": "latest/health/badges/53.json",
       "path": "/metagraph/health/badges/53.json",
+      "sha256": "a24e70cc30184ef10f84b4f179c7751b49b2f8140e3b857cd9104ad8aae3ef0d",
       "size_bytes": 291
     },
     {
@@ -637,6 +727,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/54.json",
       "latest_key": "latest/health/badges/54.json",
       "path": "/metagraph/health/badges/54.json",
+      "sha256": "45d3712bf4be02894f9d7c278dc5384fab84a0819a00361ac503bdfef71f16c9",
       "size_bytes": 291
     },
     {
@@ -644,6 +735,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/55.json",
       "latest_key": "latest/health/badges/55.json",
       "path": "/metagraph/health/badges/55.json",
+      "sha256": "63d30db57a047fa5da91c9fe45a817f66acaeb9d64af41885dfe433b1b9be23f",
       "size_bytes": 291
     },
     {
@@ -651,6 +743,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/56.json",
       "latest_key": "latest/health/badges/56.json",
       "path": "/metagraph/health/badges/56.json",
+      "sha256": "a4cbc9164104bae5464bf1f24e2afbac17f5e575683f6d6c3ed5d63f8ef9b14f",
       "size_bytes": 291
     },
     {
@@ -658,6 +751,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/57.json",
       "latest_key": "latest/health/badges/57.json",
       "path": "/metagraph/health/badges/57.json",
+      "sha256": "af4c792f66fa8d25547a0e73b8f5fccef74d4843b017984fa18e8c58cdf00199",
       "size_bytes": 291
     },
     {
@@ -665,6 +759,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/58.json",
       "latest_key": "latest/health/badges/58.json",
       "path": "/metagraph/health/badges/58.json",
+      "sha256": "926dcd5add6a0cc4ba79aef059bb592f23a028eaf89d80a5dc5a4ccfbe2d5a2a",
       "size_bytes": 293
     },
     {
@@ -672,6 +767,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/59.json",
       "latest_key": "latest/health/badges/59.json",
       "path": "/metagraph/health/badges/59.json",
+      "sha256": "10449cb1d0d27e681ed7b2b2a84f0b85a461516128eef2dce1298e4c1b20dfcb",
       "size_bytes": 291
     },
     {
@@ -679,6 +775,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/6.json",
       "latest_key": "latest/health/badges/6.json",
       "path": "/metagraph/health/badges/6.json",
+      "sha256": "b9da46f23eca349b04ae27ad5e041f80063cf3bace9addf4857751241d69358a",
       "size_bytes": 289
     },
     {
@@ -686,6 +783,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/60.json",
       "latest_key": "latest/health/badges/60.json",
       "path": "/metagraph/health/badges/60.json",
+      "sha256": "00d1a8c441a9f708af0d3013554cb4204d4d18f4025286e56768b8a3d5a08fc8",
       "size_bytes": 291
     },
     {
@@ -693,6 +791,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/61.json",
       "latest_key": "latest/health/badges/61.json",
       "path": "/metagraph/health/badges/61.json",
+      "sha256": "ef5756a99b9fd62b908aa1bac0d1ac7c527db1f931ad8234017427cf96103f5c",
       "size_bytes": 291
     },
     {
@@ -700,6 +799,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/62.json",
       "latest_key": "latest/health/badges/62.json",
       "path": "/metagraph/health/badges/62.json",
+      "sha256": "051ae70bd09a63ef76ea2c1c88707be1c6f7c124b0d86580d40ab9991507e0cf",
       "size_bytes": 291
     },
     {
@@ -707,6 +807,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/63.json",
       "latest_key": "latest/health/badges/63.json",
       "path": "/metagraph/health/badges/63.json",
+      "sha256": "8396ec70a9e652466bdf7600ec7b4bbefa0c2e1a3d05bb327b502d71057a4331",
       "size_bytes": 291
     },
     {
@@ -714,6 +815,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/64.json",
       "latest_key": "latest/health/badges/64.json",
       "path": "/metagraph/health/badges/64.json",
+      "sha256": "ee84c2d2243970147d19238568405d48b3184c5ba66a610ccb446c5258c4001c",
       "size_bytes": 291
     },
     {
@@ -721,6 +823,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/65.json",
       "latest_key": "latest/health/badges/65.json",
       "path": "/metagraph/health/badges/65.json",
+      "sha256": "155a2c42d486909a9fa7029bb531c93eed1b6c08ca76368e39b7b06404ce17b9",
       "size_bytes": 291
     },
     {
@@ -728,6 +831,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/66.json",
       "latest_key": "latest/health/badges/66.json",
       "path": "/metagraph/health/badges/66.json",
+      "sha256": "312fa1dcf001773808bb62561bd0dfc2a59ce5cb57c87232eba993cad1bf9099",
       "size_bytes": 291
     },
     {
@@ -735,6 +839,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/67.json",
       "latest_key": "latest/health/badges/67.json",
       "path": "/metagraph/health/badges/67.json",
+      "sha256": "40f8055ff458c76f3d4afe84ea016c1d912ae9bc51a8c5314e85dc1cbb6eb90c",
       "size_bytes": 291
     },
     {
@@ -742,6 +847,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/68.json",
       "latest_key": "latest/health/badges/68.json",
       "path": "/metagraph/health/badges/68.json",
+      "sha256": "f52c17e4f749d09bd969c6f08c483cd1789c043d4fbeef6fa0848cf70747b6f5",
       "size_bytes": 291
     },
     {
@@ -749,6 +855,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/69.json",
       "latest_key": "latest/health/badges/69.json",
       "path": "/metagraph/health/badges/69.json",
+      "sha256": "e7424b61dd3681f0e168ef01cc9392d22f203a14759db31bb08e3e8748c71a9c",
       "size_bytes": 291
     },
     {
@@ -756,6 +863,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/7.json",
       "latest_key": "latest/health/badges/7.json",
       "path": "/metagraph/health/badges/7.json",
+      "sha256": "89a7832f141253abd51e8c1afd5e0d75ebca0c2da181733454d03a4742f01517",
       "size_bytes": 291
     },
     {
@@ -763,6 +871,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/70.json",
       "latest_key": "latest/health/badges/70.json",
       "path": "/metagraph/health/badges/70.json",
+      "sha256": "54fe667e0e958df2f82c3acbc95221ad040a3db4311016a76e760d244a8d0246",
       "size_bytes": 291
     },
     {
@@ -770,6 +879,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/71.json",
       "latest_key": "latest/health/badges/71.json",
       "path": "/metagraph/health/badges/71.json",
+      "sha256": "c4856d597e10d5ad7f15f7b7e3a1e52bf69daf379454f12c7891e78960206542",
       "size_bytes": 291
     },
     {
@@ -777,6 +887,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/72.json",
       "latest_key": "latest/health/badges/72.json",
       "path": "/metagraph/health/badges/72.json",
+      "sha256": "f6e88c5c1d4200c70bd308aa00b143f7bb424e7da2575f6af74192b060c65eb6",
       "size_bytes": 291
     },
     {
@@ -784,6 +895,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/73.json",
       "latest_key": "latest/health/badges/73.json",
       "path": "/metagraph/health/badges/73.json",
+      "sha256": "ca3b6aeca879a29c6c4d73ff4692912238355d7cc671d56afd29988fb80fa8d1",
       "size_bytes": 291
     },
     {
@@ -791,6 +903,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/74.json",
       "latest_key": "latest/health/badges/74.json",
       "path": "/metagraph/health/badges/74.json",
+      "sha256": "61e111f8a4f4a6461a0c9971c6b1b6ee15eebcd982dd7bc9d0e6d8757480336b",
       "size_bytes": 291
     },
     {
@@ -798,6 +911,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/75.json",
       "latest_key": "latest/health/badges/75.json",
       "path": "/metagraph/health/badges/75.json",
+      "sha256": "1ec1d14c5f7b32fc02a0746e4badbc8a82028a5cd137e1eca3a6bff726a647fc",
       "size_bytes": 291
     },
     {
@@ -805,6 +919,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/76.json",
       "latest_key": "latest/health/badges/76.json",
       "path": "/metagraph/health/badges/76.json",
+      "sha256": "6605a7b3159023a82e48c98b9cb675e01c80ebbfc667f54ae89f8179c24f0084",
       "size_bytes": 291
     },
     {
@@ -812,6 +927,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/77.json",
       "latest_key": "latest/health/badges/77.json",
       "path": "/metagraph/health/badges/77.json",
+      "sha256": "58ad718166a97a9b28dcac9e562afc53347cad4ad1c0206a2d6e4a2927b32cb9",
       "size_bytes": 291
     },
     {
@@ -819,6 +935,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/78.json",
       "latest_key": "latest/health/badges/78.json",
       "path": "/metagraph/health/badges/78.json",
+      "sha256": "1b57f8b936097785c3fc538eebf9a06e3aaf84b68e955ba99e3f62616328458f",
       "size_bytes": 291
     },
     {
@@ -826,6 +943,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/79.json",
       "latest_key": "latest/health/badges/79.json",
       "path": "/metagraph/health/badges/79.json",
+      "sha256": "0763f3c67e281d38430a31a74454f0025d03ff6cf32f32e4ac7cc52bcb43ffae",
       "size_bytes": 291
     },
     {
@@ -833,6 +951,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/8.json",
       "latest_key": "latest/health/badges/8.json",
       "path": "/metagraph/health/badges/8.json",
+      "sha256": "71aae077dfb65c039fca0fae7314d1e491573c0b456fdd489d342f67c98a816d",
       "size_bytes": 289
     },
     {
@@ -840,6 +959,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/80.json",
       "latest_key": "latest/health/badges/80.json",
       "path": "/metagraph/health/badges/80.json",
+      "sha256": "dc9c770f7a181626fd94b101522fc539170dcdf982aec73d989cff43cde85f1b",
       "size_bytes": 291
     },
     {
@@ -847,6 +967,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/81.json",
       "latest_key": "latest/health/badges/81.json",
       "path": "/metagraph/health/badges/81.json",
+      "sha256": "baf9386292f148f7bd27696840c1c8a07446952ccc239fd923ca0c003c4ff99b",
       "size_bytes": 298
     },
     {
@@ -854,6 +975,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/82.json",
       "latest_key": "latest/health/badges/82.json",
       "path": "/metagraph/health/badges/82.json",
+      "sha256": "6a2ce27be1b34cba3767f4a75727734074e8436a93c0666ee8f940a68c54a304",
       "size_bytes": 291
     },
     {
@@ -861,6 +983,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/83.json",
       "latest_key": "latest/health/badges/83.json",
       "path": "/metagraph/health/badges/83.json",
+      "sha256": "7ff7ac1c48be03a6f953f291a138f01728688c219bc0260babbb3cb0e1f13fad",
       "size_bytes": 291
     },
     {
@@ -868,6 +991,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/84.json",
       "latest_key": "latest/health/badges/84.json",
       "path": "/metagraph/health/badges/84.json",
+      "sha256": "16b4a263bfd5169aff5a907d0c99de052dcf22f5aaf0b9ebd7cdd894a4597ff3",
       "size_bytes": 291
     },
     {
@@ -875,6 +999,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/85.json",
       "latest_key": "latest/health/badges/85.json",
       "path": "/metagraph/health/badges/85.json",
+      "sha256": "a78b31f6fac2bbf9de78ad30be2aae99178d399a3b42a358fc4e379e4f3697a1",
       "size_bytes": 291
     },
     {
@@ -882,6 +1007,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/86.json",
       "latest_key": "latest/health/badges/86.json",
       "path": "/metagraph/health/badges/86.json",
+      "sha256": "31228165aa39db4836aed7d399bc9f909faf4907a288c20e0a24802cd37317bf",
       "size_bytes": 291
     },
     {
@@ -889,6 +1015,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/87.json",
       "latest_key": "latest/health/badges/87.json",
       "path": "/metagraph/health/badges/87.json",
+      "sha256": "cbc96bc6175baad91ab6628ac6c62e982d513a3d148819d916c8848557a85a6c",
       "size_bytes": 291
     },
     {
@@ -896,6 +1023,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/88.json",
       "latest_key": "latest/health/badges/88.json",
       "path": "/metagraph/health/badges/88.json",
+      "sha256": "215dcc12d69a54496846d5298ef4e41482d614f3b1da1d77cf483dcbdeaf8d02",
       "size_bytes": 291
     },
     {
@@ -903,6 +1031,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/89.json",
       "latest_key": "latest/health/badges/89.json",
       "path": "/metagraph/health/badges/89.json",
+      "sha256": "69f4a2137c5f983ebc8094090b46f46cdba14d06567c0b222d86f4868b779a14",
       "size_bytes": 291
     },
     {
@@ -910,6 +1039,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/9.json",
       "latest_key": "latest/health/badges/9.json",
       "path": "/metagraph/health/badges/9.json",
+      "sha256": "b90560e6c8a03f95ef4b8062ca07c9464e35e50d39724bbe5dc08487594c8524",
       "size_bytes": 289
     },
     {
@@ -917,6 +1047,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/90.json",
       "latest_key": "latest/health/badges/90.json",
       "path": "/metagraph/health/badges/90.json",
+      "sha256": "10922888495816742e8efdffe95722d0797ce06660e20d79d3e5fef4fbf757da",
       "size_bytes": 291
     },
     {
@@ -924,6 +1055,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/91.json",
       "latest_key": "latest/health/badges/91.json",
       "path": "/metagraph/health/badges/91.json",
+      "sha256": "7b720a19b07515db837b28c567d328f0d225bc98a3a2246da1fbbe2bf3ccb02d",
       "size_bytes": 291
     },
     {
@@ -931,6 +1063,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/92.json",
       "latest_key": "latest/health/badges/92.json",
       "path": "/metagraph/health/badges/92.json",
+      "sha256": "00ac6c79da56ee0b9772a8cead0755bff62ddb6b7f4a925cf3a119cefe13dea0",
       "size_bytes": 291
     },
     {
@@ -938,6 +1071,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/93.json",
       "latest_key": "latest/health/badges/93.json",
       "path": "/metagraph/health/badges/93.json",
+      "sha256": "736d23b1dd324289c9620b70d6075050ab266abc141843912fdca2e9b473098d",
       "size_bytes": 291
     },
     {
@@ -945,6 +1079,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/94.json",
       "latest_key": "latest/health/badges/94.json",
       "path": "/metagraph/health/badges/94.json",
+      "sha256": "1f67e48327fa67861fcbfe2835fa9fb887da353beff790fa725c6766917dee92",
       "size_bytes": 291
     },
     {
@@ -952,6 +1087,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/95.json",
       "latest_key": "latest/health/badges/95.json",
       "path": "/metagraph/health/badges/95.json",
+      "sha256": "d265e05f165849af7641066e90bf91a8b5fd5723b0bae0a244479d5d9704efaf",
       "size_bytes": 291
     },
     {
@@ -959,6 +1095,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/96.json",
       "latest_key": "latest/health/badges/96.json",
       "path": "/metagraph/health/badges/96.json",
+      "sha256": "fb8a9298b51c15ed05ea934f4384f64a780f82a088b35e57d59831c43561ab56",
       "size_bytes": 291
     },
     {
@@ -966,6 +1103,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/97.json",
       "latest_key": "latest/health/badges/97.json",
       "path": "/metagraph/health/badges/97.json",
+      "sha256": "f73ee87ee9a2d141f5b63d9cbe4e4e04981b585a807382a685ac53844f40e25b",
       "size_bytes": 291
     },
     {
@@ -973,6 +1111,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/98.json",
       "latest_key": "latest/health/badges/98.json",
       "path": "/metagraph/health/badges/98.json",
+      "sha256": "0a898bcfa621a3d2cd4973dbf977ad49ef10c5134196e293efebb5116c6db611",
       "size_bytes": 291
     },
     {
@@ -980,6 +1119,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/badges/99.json",
       "latest_key": "latest/health/badges/99.json",
       "path": "/metagraph/health/badges/99.json",
+      "sha256": "8b3b5bf7733961e57b9879e0ba1da4af1961c71d380b990a99aacb071a5ec64b",
       "size_bytes": 291
     },
     {
@@ -987,6 +1127,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/history/2026-06-06.json",
       "latest_key": "latest/health/history/2026-06-06.json",
       "path": "/metagraph/health/history/2026-06-06.json",
+      "sha256": "efe28def613685d3b5e8b3b8df6fccc02e5f52b2df81876dbe6e79140b838e98",
       "size_bytes": 485629
     },
     {
@@ -994,6 +1135,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/latest.json",
       "latest_key": "latest/health/latest.json",
       "path": "/metagraph/health/latest.json",
+      "sha256": "efe28def613685d3b5e8b3b8df6fccc02e5f52b2df81876dbe6e79140b838e98",
       "size_bytes": 485629
     },
     {
@@ -1001,6 +1143,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/0.json",
       "latest_key": "latest/health/subnets/0.json",
       "path": "/metagraph/health/subnets/0.json",
+      "sha256": "a5b11e0a80f52ea524eb5db5bdbe8124024a22fdae065266f37fd1a8388b037b",
       "size_bytes": 16874
     },
     {
@@ -1008,6 +1151,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/1.json",
       "latest_key": "latest/health/subnets/1.json",
       "path": "/metagraph/health/subnets/1.json",
+      "sha256": "5c1de04d3c6d63fb43f362d68d188c9a7724084e49a2df4b0c3529736040f501",
       "size_bytes": 4543
     },
     {
@@ -1015,6 +1159,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/10.json",
       "latest_key": "latest/health/subnets/10.json",
       "path": "/metagraph/health/subnets/10.json",
+      "sha256": "0ec3c05194b842bb8dc7ac7f97263a67bc10d64453e58993679eb0f92bcf1954",
       "size_bytes": 3719
     },
     {
@@ -1022,6 +1167,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/100.json",
       "latest_key": "latest/health/subnets/100.json",
       "path": "/metagraph/health/subnets/100.json",
+      "sha256": "484a9bdf3e86d7b55aab82915be48cec3b241820c38247c993e276709d40e957",
       "size_bytes": 5489
     },
     {
@@ -1029,6 +1175,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/101.json",
       "latest_key": "latest/health/subnets/101.json",
       "path": "/metagraph/health/subnets/101.json",
+      "sha256": "203cc64afaa350e90d8e2acbc9e71fad2f88f5de3123a85f4ea894cdc74b160a",
       "size_bytes": 2141
     },
     {
@@ -1036,6 +1183,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/102.json",
       "latest_key": "latest/health/subnets/102.json",
       "path": "/metagraph/health/subnets/102.json",
+      "sha256": "ccefb9eb1a4f9a10dcd9c3d3c053e9c1ac180aa9f0b167a410fbb70187d983af",
       "size_bytes": 3759
     },
     {
@@ -1043,6 +1191,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/103.json",
       "latest_key": "latest/health/subnets/103.json",
       "path": "/metagraph/health/subnets/103.json",
+      "sha256": "52f4a1cb7a67cfc5eb77ea1f3eb6c1dfe1c72b5b98d6a1749c2f3b9fd7f004b5",
       "size_bytes": 3753
     },
     {
@@ -1050,6 +1199,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/104.json",
       "latest_key": "latest/health/subnets/104.json",
       "path": "/metagraph/health/subnets/104.json",
+      "sha256": "8ef7bdb4578f8a394d395df5700748995a3139573c4a100b14630801146c53cd",
       "size_bytes": 2221
     },
     {
@@ -1057,6 +1207,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/105.json",
       "latest_key": "latest/health/subnets/105.json",
       "path": "/metagraph/health/subnets/105.json",
+      "sha256": "fb366cd49131606ce780e04d79957bcccd2dea84ad7704d2fcef6bbadfdb24aa",
       "size_bytes": 3737
     },
     {
@@ -1064,6 +1215,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/106.json",
       "latest_key": "latest/health/subnets/106.json",
       "path": "/metagraph/health/subnets/106.json",
+      "sha256": "55266e2e7f2e4bda77d4e679939ed88fce6fc8195d7930acbc833016ecb12e8e",
       "size_bytes": 3735
     },
     {
@@ -1071,6 +1223,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/107.json",
       "latest_key": "latest/health/subnets/107.json",
       "path": "/metagraph/health/subnets/107.json",
+      "sha256": "2a5b12f2e43e73afb55173ffbebc71a9f42dc55226f94214c76e24f693b97920",
       "size_bytes": 6266
     },
     {
@@ -1078,6 +1231,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/108.json",
       "latest_key": "latest/health/subnets/108.json",
       "path": "/metagraph/health/subnets/108.json",
+      "sha256": "6d14cd4d6010a3b7eaebb2147086e4f56497214b1b48f486cefb2a7de26f80db",
       "size_bytes": 3766
     },
     {
@@ -1085,6 +1239,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/109.json",
       "latest_key": "latest/health/subnets/109.json",
       "path": "/metagraph/health/subnets/109.json",
+      "sha256": "984977b494f9454d6e19c053097af4897fa5a16ad190018392af63ca50827094",
       "size_bytes": 2973
     },
     {
@@ -1092,6 +1247,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/11.json",
       "latest_key": "latest/health/subnets/11.json",
       "path": "/metagraph/health/subnets/11.json",
+      "sha256": "4e53d026d9ea4757850055d1e1b7f654d87be43b1e245df4c7fb2b863b4bba63",
       "size_bytes": 3762
     },
     {
@@ -1099,6 +1255,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/110.json",
       "latest_key": "latest/health/subnets/110.json",
       "path": "/metagraph/health/subnets/110.json",
+      "sha256": "004d32411abd2642a751e9943817c15912fae799deaf2c95c56fb9b6464972e9",
       "size_bytes": 3813
     },
     {
@@ -1106,6 +1263,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/111.json",
       "latest_key": "latest/health/subnets/111.json",
       "path": "/metagraph/health/subnets/111.json",
+      "sha256": "04615ed19c144db38885aee087656108a0339d74ba3549f1cec9ee8750326e7b",
       "size_bytes": 2981
     },
     {
@@ -1113,6 +1271,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/112.json",
       "latest_key": "latest/health/subnets/112.json",
       "path": "/metagraph/health/subnets/112.json",
+      "sha256": "c16bf4028463aa79da53677c446008bc46669be5941099d0c59e0fbac6032d96",
       "size_bytes": 3768
     },
     {
@@ -1120,6 +1279,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/113.json",
       "latest_key": "latest/health/subnets/113.json",
       "path": "/metagraph/health/subnets/113.json",
+      "sha256": "f500c4148f4aeac114b87d91497348f482d4df453dc709150be542e5a0648809",
       "size_bytes": 3760
     },
     {
@@ -1127,6 +1287,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/114.json",
       "latest_key": "latest/health/subnets/114.json",
       "path": "/metagraph/health/subnets/114.json",
+      "sha256": "087229fd8e4af8d75b8367212dfa1275350f9677877844a7dd536127fe4503ac",
       "size_bytes": 5441
     },
     {
@@ -1134,6 +1295,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/115.json",
       "latest_key": "latest/health/subnets/115.json",
       "path": "/metagraph/health/subnets/115.json",
+      "sha256": "a777f36ab9d683e91add9904637113be65a524130b9113e22632b7c795074ae6",
       "size_bytes": 2982
     },
     {
@@ -1141,6 +1303,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/116.json",
       "latest_key": "latest/health/subnets/116.json",
       "path": "/metagraph/health/subnets/116.json",
+      "sha256": "be0a60d71e7a1ecbbfaaf4d189df382e369af14f6e2a0423c95e83e0086f92df",
       "size_bytes": 2165
     },
     {
@@ -1148,6 +1311,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/117.json",
       "latest_key": "latest/health/subnets/117.json",
       "path": "/metagraph/health/subnets/117.json",
+      "sha256": "9d4135572e85a302021022b5cb3ac36cdc9d52d1cef1774ce83ad8330753b7b3",
       "size_bytes": 5543
     },
     {
@@ -1155,6 +1319,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/118.json",
       "latest_key": "latest/health/subnets/118.json",
       "path": "/metagraph/health/subnets/118.json",
+      "sha256": "82e9f0b4c53928e34fe712217fbb94fcd02ad540cdaca416d760ee63bed80684",
       "size_bytes": 7910
     },
     {
@@ -1162,6 +1327,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/119.json",
       "latest_key": "latest/health/subnets/119.json",
       "path": "/metagraph/health/subnets/119.json",
+      "sha256": "682e1db6fa701bac772910b8bfb0f26d29ec8f9a2c9ef79839907859e42cbed9",
       "size_bytes": 2151
     },
     {
@@ -1169,6 +1335,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/12.json",
       "latest_key": "latest/health/subnets/12.json",
       "path": "/metagraph/health/subnets/12.json",
+      "sha256": "c9ea023d30cd6eb3041a7059b7a8a4d352f2f51acc367c215f468a30ebaddc20",
       "size_bytes": 2994
     },
     {
@@ -1176,6 +1343,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/120.json",
       "latest_key": "latest/health/subnets/120.json",
       "path": "/metagraph/health/subnets/120.json",
+      "sha256": "2ed753575e2e58caafb637efd21d4557d6fed089dbc1a85c958524a345bf66fa",
       "size_bytes": 3802
     },
     {
@@ -1183,6 +1351,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/121.json",
       "latest_key": "latest/health/subnets/121.json",
       "path": "/metagraph/health/subnets/121.json",
+      "sha256": "310dd373d30f4c4b8fa23712d78facb2b56dd6f9bee38fc813c024cc2ced2cb7",
       "size_bytes": 3780
     },
     {
@@ -1190,6 +1359,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/122.json",
       "latest_key": "latest/health/subnets/122.json",
       "path": "/metagraph/health/subnets/122.json",
+      "sha256": "84aa809e1b72f7815a5595b670694d7d86e7f2927fee2f8e408456ce7ebe4a31",
       "size_bytes": 3000
     },
     {
@@ -1197,6 +1367,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/123.json",
       "latest_key": "latest/health/subnets/123.json",
       "path": "/metagraph/health/subnets/123.json",
+      "sha256": "793af6e9f4733cd83ec7a2557c5aa29380df6423a93a016fe0270875a4b59e10",
       "size_bytes": 2962
     },
     {
@@ -1204,6 +1375,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/124.json",
       "latest_key": "latest/health/subnets/124.json",
       "path": "/metagraph/health/subnets/124.json",
+      "sha256": "a1e9b0a544fefb88ffb657ef0616add2d29d3ca61901d8cdfc585afacca23cd9",
       "size_bytes": 3767
     },
     {
@@ -1211,6 +1383,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/125.json",
       "latest_key": "latest/health/subnets/125.json",
       "path": "/metagraph/health/subnets/125.json",
+      "sha256": "dc9bc756935fb349e7e1404522d19ea0c409e9b6c50b767091609d6d4298cb5f",
       "size_bytes": 2153
     },
     {
@@ -1218,6 +1391,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/126.json",
       "latest_key": "latest/health/subnets/126.json",
       "path": "/metagraph/health/subnets/126.json",
+      "sha256": "c04f6318d1875b655d089f90898012805b9c2a2a4920631fab86c48a0c00e304",
       "size_bytes": 3752
     },
     {
@@ -1225,6 +1399,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/127.json",
       "latest_key": "latest/health/subnets/127.json",
       "path": "/metagraph/health/subnets/127.json",
+      "sha256": "3cc55b5074c717fe94be2a336b542fb7c558824a68ba7d187bc446d05325b06f",
       "size_bytes": 3781
     },
     {
@@ -1232,6 +1407,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/128.json",
       "latest_key": "latest/health/subnets/128.json",
       "path": "/metagraph/health/subnets/128.json",
+      "sha256": "2868dd7c13b1adb48f47523aefaf425adffb7d00272073c94e461cbb8945ffff",
       "size_bytes": 4577
     },
     {
@@ -1239,6 +1415,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/13.json",
       "latest_key": "latest/health/subnets/13.json",
       "path": "/metagraph/health/subnets/13.json",
+      "sha256": "91f986662808695867de37de03e9bfbc8967120145bd7d3468177dc712e320cb",
       "size_bytes": 3824
     },
     {
@@ -1246,6 +1423,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/14.json",
       "latest_key": "latest/health/subnets/14.json",
       "path": "/metagraph/health/subnets/14.json",
+      "sha256": "7e4d4bf9d3b1cfc2eb6fe587be085f2c5ad6766806aff67119f8b548210b452c",
       "size_bytes": 9589
     },
     {
@@ -1253,6 +1431,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/15.json",
       "latest_key": "latest/health/subnets/15.json",
       "path": "/metagraph/health/subnets/15.json",
+      "sha256": "006ab8fb1d39cabb1e4d399416a44a02dc7356a6c91857ae6d9fb7ce2b1b5745",
       "size_bytes": 3696
     },
     {
@@ -1260,6 +1439,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/16.json",
       "latest_key": "latest/health/subnets/16.json",
       "path": "/metagraph/health/subnets/16.json",
+      "sha256": "86a2f8b2786ec644f5934e48e160ad79730a60f144a0b3e180b5d58c394cc533",
       "size_bytes": 3707
     },
     {
@@ -1267,6 +1447,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/17.json",
       "latest_key": "latest/health/subnets/17.json",
       "path": "/metagraph/health/subnets/17.json",
+      "sha256": "662ed2f0f68ca8d4f711a933258aa7203e56cee142781620f61251202d7b9d02",
       "size_bytes": 8079
     },
     {
@@ -1274,6 +1455,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/18.json",
       "latest_key": "latest/health/subnets/18.json",
       "path": "/metagraph/health/subnets/18.json",
+      "sha256": "cd84a4ebf98084e9c500f0a814cfe1d28e4b9a09be734c6b4e6c337e20986a99",
       "size_bytes": 3712
     },
     {
@@ -1281,6 +1463,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/19.json",
       "latest_key": "latest/health/subnets/19.json",
       "path": "/metagraph/health/subnets/19.json",
+      "sha256": "b1392f31038866a0651b328bd2bb1617bb8241f1b26cd3182c2ab753f5a5dffa",
       "size_bytes": 3762
     },
     {
@@ -1288,6 +1471,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/2.json",
       "latest_key": "latest/health/subnets/2.json",
       "path": "/metagraph/health/subnets/2.json",
+      "sha256": "94c7c2f2db8a80dfebd802dc1a4ba82a44655f7ebd88399cf9bc5108a2327fa0",
       "size_bytes": 4575
     },
     {
@@ -1295,6 +1479,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/20.json",
       "latest_key": "latest/health/subnets/20.json",
       "path": "/metagraph/health/subnets/20.json",
+      "sha256": "da9a5c4bcdbd803f036f3b9a73d9d9d8360c403e3dafd88e0eec74dd5e81477a",
       "size_bytes": 2978
     },
     {
@@ -1302,6 +1487,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/21.json",
       "latest_key": "latest/health/subnets/21.json",
       "path": "/metagraph/health/subnets/21.json",
+      "sha256": "0f0d00850eda8e2cd96de6584891653f35f2c206dc51f810867e9ceb287102a4",
       "size_bytes": 2942
     },
     {
@@ -1309,6 +1495,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/22.json",
       "latest_key": "latest/health/subnets/22.json",
       "path": "/metagraph/health/subnets/22.json",
+      "sha256": "46471275f9066c14071412be77ad3246bd7366a03805d670168b5aaf760f53c0",
       "size_bytes": 3804
     },
     {
@@ -1316,6 +1503,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/23.json",
       "latest_key": "latest/health/subnets/23.json",
       "path": "/metagraph/health/subnets/23.json",
+      "sha256": "1281a1a3f3f9516a23722f560fd09c42c95173e35ff1a5126b65a0c81c476a7a",
       "size_bytes": 6295
     },
     {
@@ -1323,6 +1511,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/24.json",
       "latest_key": "latest/health/subnets/24.json",
       "path": "/metagraph/health/subnets/24.json",
+      "sha256": "a0028ca4d48b5ed4aada4c7e9b80afdc04e4623d26df0f5dc1e4b92683b86908",
       "size_bytes": 3725
     },
     {
@@ -1330,6 +1519,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/25.json",
       "latest_key": "latest/health/subnets/25.json",
       "path": "/metagraph/health/subnets/25.json",
+      "sha256": "ff86c4bab83a725b4c215394ea63eb050a34b5ded1760858d8fa5081e87ad8a2",
       "size_bytes": 3780
     },
     {
@@ -1337,6 +1527,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/26.json",
       "latest_key": "latest/health/subnets/26.json",
       "path": "/metagraph/health/subnets/26.json",
+      "sha256": "5715198477c80d45f3f1b92232fca507e9172775b5dba5ad0552fec02059455d",
       "size_bytes": 3729
     },
     {
@@ -1344,6 +1535,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/27.json",
       "latest_key": "latest/health/subnets/27.json",
       "path": "/metagraph/health/subnets/27.json",
+      "sha256": "1fc2b6d9c089beab1f5672f316a16d993abd7cfd439247b470d85aaf7d1822af",
       "size_bytes": 2139
     },
     {
@@ -1351,6 +1543,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/28.json",
       "latest_key": "latest/health/subnets/28.json",
       "path": "/metagraph/health/subnets/28.json",
+      "sha256": "3bec3d3e376129349c633089713cdcbeb7e0caca395ff8c44f49c6fa0850d430",
       "size_bytes": 2123
     },
     {
@@ -1358,6 +1551,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/29.json",
       "latest_key": "latest/health/subnets/29.json",
       "path": "/metagraph/health/subnets/29.json",
+      "sha256": "8c9af93c2e4c442f5273a12b6de792f93195465300d60d8826bd34eb29a837a7",
       "size_bytes": 4591
     },
     {
@@ -1365,6 +1559,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/3.json",
       "latest_key": "latest/health/subnets/3.json",
       "path": "/metagraph/health/subnets/3.json",
+      "sha256": "75af898b7a12d05f27d76904534ba48ea2979c8aa91f1c24c5d241001c801c46",
       "size_bytes": 8035
     },
     {
@@ -1372,6 +1567,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/30.json",
       "latest_key": "latest/health/subnets/30.json",
       "path": "/metagraph/health/subnets/30.json",
+      "sha256": "a6dc56dd360204df5cb1ae591fa70f183da7b27adceb3bac228d8efd7e9847e9",
       "size_bytes": 2960
     },
     {
@@ -1379,6 +1575,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/31.json",
       "latest_key": "latest/health/subnets/31.json",
       "path": "/metagraph/health/subnets/31.json",
+      "sha256": "20a31f047b9c973979b2f8c4e48d1e14738e7f94aa617ee33e6d84e72b9bf957",
       "size_bytes": 2139
     },
     {
@@ -1386,6 +1583,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/32.json",
       "latest_key": "latest/health/subnets/32.json",
       "path": "/metagraph/health/subnets/32.json",
+      "sha256": "a6212b53dca8692a03890918a0ffe4e18c6ed5ff3fa282f8f807607b8f48fabe",
       "size_bytes": 3718
     },
     {
@@ -1393,6 +1591,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/33.json",
       "latest_key": "latest/health/subnets/33.json",
       "path": "/metagraph/health/subnets/33.json",
+      "sha256": "2b9736c9beccd587000a4ec24737141278d277c337ff12f50ec60307729eba45",
       "size_bytes": 2979
     },
     {
@@ -1400,6 +1599,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/34.json",
       "latest_key": "latest/health/subnets/34.json",
       "path": "/metagraph/health/subnets/34.json",
+      "sha256": "dd3eebf08454e3c2a3719ed7ee7c32f4ebc2797fe14cca6b2e71df134ce7a747",
       "size_bytes": 2954
     },
     {
@@ -1407,6 +1607,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/35.json",
       "latest_key": "latest/health/subnets/35.json",
       "path": "/metagraph/health/subnets/35.json",
+      "sha256": "2e83d4464aaea8466b8bb38040abbef00e7dcbe7ef0f2fab48d974b2c610cd8a",
       "size_bytes": 5446
     },
     {
@@ -1414,6 +1615,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/36.json",
       "latest_key": "latest/health/subnets/36.json",
       "path": "/metagraph/health/subnets/36.json",
+      "sha256": "889a1b65bf97f504963cef06e260614f732246d0310ac63fa6a54be93574f10a",
       "size_bytes": 3740
     },
     {
@@ -1421,6 +1623,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/37.json",
       "latest_key": "latest/health/subnets/37.json",
       "path": "/metagraph/health/subnets/37.json",
+      "sha256": "37d391fc15f1a7e6523940dccbaec5a8a7798de93428f626bace1627b7ddfca1",
       "size_bytes": 4555
     },
     {
@@ -1428,6 +1631,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/38.json",
       "latest_key": "latest/health/subnets/38.json",
       "path": "/metagraph/health/subnets/38.json",
+      "sha256": "ada62ea3c40327ab2e748fd66570784ac10c5d282d22cbbf7b34cff55ba22829",
       "size_bytes": 3748
     },
     {
@@ -1435,6 +1639,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/39.json",
       "latest_key": "latest/health/subnets/39.json",
       "path": "/metagraph/health/subnets/39.json",
+      "sha256": "011f5be828873898a32233a6826ceaf6b04253a8b09b7b5f943684c3870181cf",
       "size_bytes": 3014
     },
     {
@@ -1442,6 +1647,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/4.json",
       "latest_key": "latest/health/subnets/4.json",
       "path": "/metagraph/health/subnets/4.json",
+      "sha256": "b06c91363678ebc12ce32900597e9711d7b36fdc44ba9ba6fe1646e2da8256d2",
       "size_bytes": 5349
     },
     {
@@ -1449,6 +1655,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/40.json",
       "latest_key": "latest/health/subnets/40.json",
       "path": "/metagraph/health/subnets/40.json",
+      "sha256": "48267b04508bb0ca803a94916cd95879bc425cc80e9544f02b313c6a20932ae0",
       "size_bytes": 2147
     },
     {
@@ -1456,6 +1663,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/41.json",
       "latest_key": "latest/health/subnets/41.json",
       "path": "/metagraph/health/subnets/41.json",
+      "sha256": "e2f5a3dbdde1d948577bd674027e22b3defe18c87c7ca87d2be7e2f6f8d15db0",
       "size_bytes": 3728
     },
     {
@@ -1463,6 +1671,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/42.json",
       "latest_key": "latest/health/subnets/42.json",
       "path": "/metagraph/health/subnets/42.json",
+      "sha256": "f9ab2e2aca680308aae0258886ce3a41bdebe5ef8b77e526df4067802e963fd7",
       "size_bytes": 2143
     },
     {
@@ -1470,6 +1679,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/43.json",
       "latest_key": "latest/health/subnets/43.json",
       "path": "/metagraph/health/subnets/43.json",
+      "sha256": "fb709e1b432bd5de4604eeaa2f5015408ab81d291d3688e5573a8cdd263c1ba2",
       "size_bytes": 2960
     },
     {
@@ -1477,6 +1687,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/44.json",
       "latest_key": "latest/health/subnets/44.json",
       "path": "/metagraph/health/subnets/44.json",
+      "sha256": "4131d570bfd35b887a8149e542507e23d2570609f450312b3d108a81a098d921",
       "size_bytes": 4558
     },
     {
@@ -1484,6 +1695,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/45.json",
       "latest_key": "latest/health/subnets/45.json",
       "path": "/metagraph/health/subnets/45.json",
+      "sha256": "07177f6472ee64c670737c7e67903c1c20ff4b68c2140c4a041efb918c6b6f8a",
       "size_bytes": 3758
     },
     {
@@ -1491,6 +1703,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/46.json",
       "latest_key": "latest/health/subnets/46.json",
       "path": "/metagraph/health/subnets/46.json",
+      "sha256": "7c94878f598d2fed160a8b15e4062f2c16c558ffa331c8fe3b33fd6bc925edbb",
       "size_bytes": 7887
     },
     {
@@ -1498,6 +1711,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/47.json",
       "latest_key": "latest/health/subnets/47.json",
       "path": "/metagraph/health/subnets/47.json",
+      "sha256": "019b953f7701b00abf9aad571588084dd47e77c7724054e8a41e0bb2f27b383b",
       "size_bytes": 5517
     },
     {
@@ -1505,6 +1719,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/48.json",
       "latest_key": "latest/health/subnets/48.json",
       "path": "/metagraph/health/subnets/48.json",
+      "sha256": "745b43287bf2e15d3a44e2505eae1141444698c86fea3f9c241e91dda92dec38",
       "size_bytes": 3798
     },
     {
@@ -1512,6 +1727,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/49.json",
       "latest_key": "latest/health/subnets/49.json",
       "path": "/metagraph/health/subnets/49.json",
+      "sha256": "37b6e4e19e531cf4554332ac42a190bfe0810b7c970e679be83dce933471fb32",
       "size_bytes": 2992
     },
     {
@@ -1519,6 +1735,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/5.json",
       "latest_key": "latest/health/subnets/5.json",
       "path": "/metagraph/health/subnets/5.json",
+      "sha256": "b4c64f5fec4dd529a6aac65fec88402f9c4fa0816a79f7991381a411f1aad62c",
       "size_bytes": 4536
     },
     {
@@ -1526,6 +1743,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/50.json",
       "latest_key": "latest/health/subnets/50.json",
       "path": "/metagraph/health/subnets/50.json",
+      "sha256": "ee7be2d3aa0346220741b45435c81937328d0ce60e3bb1934401af01aaceedf3",
       "size_bytes": 3769
     },
     {
@@ -1533,6 +1751,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/51.json",
       "latest_key": "latest/health/subnets/51.json",
       "path": "/metagraph/health/subnets/51.json",
+      "sha256": "24a06f8e6c9839896d259916b52967800d2f597fb66660e9e976b9332e6f2b1d",
       "size_bytes": 3724
     },
     {
@@ -1540,6 +1759,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/52.json",
       "latest_key": "latest/health/subnets/52.json",
       "path": "/metagraph/health/subnets/52.json",
+      "sha256": "ca8abab43ca062ba33a96f0617d6448ad45f5f0ca44874193f4bfc64979be9c7",
       "size_bytes": 8853
     },
     {
@@ -1547,6 +1767,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/53.json",
       "latest_key": "latest/health/subnets/53.json",
       "path": "/metagraph/health/subnets/53.json",
+      "sha256": "ecaeeb3964925fa7fda3b9e99882612ddca0cd188b9421b3b97f45de5d2dd387",
       "size_bytes": 2183
     },
     {
@@ -1554,6 +1775,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/54.json",
       "latest_key": "latest/health/subnets/54.json",
       "path": "/metagraph/health/subnets/54.json",
+      "sha256": "2da6c207d02582190e1c4e9291e4a8bf22d68ed0163e8b08ca34f0dfb4dd8465",
       "size_bytes": 3755
     },
     {
@@ -1561,6 +1783,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/55.json",
       "latest_key": "latest/health/subnets/55.json",
       "path": "/metagraph/health/subnets/55.json",
+      "sha256": "8bde747c1de8c0abc2697a7d9b52cdedd9ee5314557373fa36c5980bd33d3685",
       "size_bytes": 3723
     },
     {
@@ -1568,6 +1791,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/56.json",
       "latest_key": "latest/health/subnets/56.json",
       "path": "/metagraph/health/subnets/56.json",
+      "sha256": "36c7c6162c4552263e9fd0fa2c02df54cdad789d9a22a6615e1876545bf375a1",
       "size_bytes": 4582
     },
     {
@@ -1575,6 +1799,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/57.json",
       "latest_key": "latest/health/subnets/57.json",
       "path": "/metagraph/health/subnets/57.json",
+      "sha256": "7fa0eddf9dd14b2d4df7ca5e33e9540f0cc42dbf66a037d7600e136f52b7d3ba",
       "size_bytes": 2945
     },
     {
@@ -1582,6 +1807,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/58.json",
       "latest_key": "latest/health/subnets/58.json",
       "path": "/metagraph/health/subnets/58.json",
+      "sha256": "2760b702661d171f8ff1f15afd0bfd2e7127f9efe9067d05a733fb480eae73e7",
       "size_bytes": 8753
     },
     {
@@ -1589,6 +1815,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/59.json",
       "latest_key": "latest/health/subnets/59.json",
       "path": "/metagraph/health/subnets/59.json",
+      "sha256": "c67f7a82dd12fffb77ce85e57a08fb3b14bf35da47917a0fafff8eb1f324b7e2",
       "size_bytes": 3738
     },
     {
@@ -1596,6 +1823,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/6.json",
       "latest_key": "latest/health/subnets/6.json",
       "path": "/metagraph/health/subnets/6.json",
+      "sha256": "a7efcb9fbc7698ebf14dc893374482ad239d98114bc178520fe13ec676931c88",
       "size_bytes": 4551
     },
     {
@@ -1603,6 +1831,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/60.json",
       "latest_key": "latest/health/subnets/60.json",
       "path": "/metagraph/health/subnets/60.json",
+      "sha256": "22764266179a264333a2d4922b081a8891224efcae7a3bd339c0c2aac2d30be4",
       "size_bytes": 5367
     },
     {
@@ -1610,6 +1839,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/61.json",
       "latest_key": "latest/health/subnets/61.json",
       "path": "/metagraph/health/subnets/61.json",
+      "sha256": "dbff0e4c8294f03ef15fe913efd1676a1eaa9498845e0fddabeb62d9e226c538",
       "size_bytes": 3737
     },
     {
@@ -1617,6 +1847,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/62.json",
       "latest_key": "latest/health/subnets/62.json",
       "path": "/metagraph/health/subnets/62.json",
+      "sha256": "a5bd6ad719077ededb531a538c50636f44847c85ed4cedec499d0e7a6ac91436",
       "size_bytes": 2941
     },
     {
@@ -1624,6 +1855,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/63.json",
       "latest_key": "latest/health/subnets/63.json",
       "path": "/metagraph/health/subnets/63.json",
+      "sha256": "26ea5f19ce4c93fabeadc20109a6c5972b07b7e41da07bf0b53fe34f0753f44c",
       "size_bytes": 3738
     },
     {
@@ -1631,6 +1863,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/64.json",
       "latest_key": "latest/health/subnets/64.json",
       "path": "/metagraph/health/subnets/64.json",
+      "sha256": "e4a47eabcd68b53434dc0c4e17a069ede1918d9995490112a8085fc6c898a2f0",
       "size_bytes": 7198
     },
     {
@@ -1638,6 +1871,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/65.json",
       "latest_key": "latest/health/subnets/65.json",
       "path": "/metagraph/health/subnets/65.json",
+      "sha256": "ec8a9468b6596b3573732626c2763dbb495a4e7c8b9f1dd81a1d6666deabe1e8",
       "size_bytes": 3807
     },
     {
@@ -1645,6 +1879,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/66.json",
       "latest_key": "latest/health/subnets/66.json",
       "path": "/metagraph/health/subnets/66.json",
+      "sha256": "cd8cf8dc611b0484527a089cdcd9341ce6930e7c65fcb70aab6950f59202f6e4",
       "size_bytes": 3701
     },
     {
@@ -1652,6 +1887,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/67.json",
       "latest_key": "latest/health/subnets/67.json",
       "path": "/metagraph/health/subnets/67.json",
+      "sha256": "8a80b54f0253ddcebb5bb6ee51f72b5e29a154a4f99c40d1f242f2d58c2a1ca5",
       "size_bytes": 4538
     },
     {
@@ -1659,6 +1895,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/68.json",
       "latest_key": "latest/health/subnets/68.json",
       "path": "/metagraph/health/subnets/68.json",
+      "sha256": "2568f627469682ee723480765d84b1aaf0744975fc7430f4f937294efc329030",
       "size_bytes": 3706
     },
     {
@@ -1666,6 +1903,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/69.json",
       "latest_key": "latest/health/subnets/69.json",
       "path": "/metagraph/health/subnets/69.json",
+      "sha256": "77bafca590aca3b43ab5ccb32e99228e804e8faf3ddb81ed14568e7c3d878bf1",
       "size_bytes": 2129
     },
     {
@@ -1673,6 +1911,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/7.json",
       "latest_key": "latest/health/subnets/7.json",
       "path": "/metagraph/health/subnets/7.json",
+      "sha256": "bf5be6306376a6319b0158e0ae44d8a529cbe67815a6293a96e3100d19f68784",
       "size_bytes": 11538
     },
     {
@@ -1680,6 +1919,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/70.json",
       "latest_key": "latest/health/subnets/70.json",
       "path": "/metagraph/health/subnets/70.json",
+      "sha256": "bfd02d4c980661d0c3a790e56cc678a42f1768b8a59017ebad489e9e05f4c446",
       "size_bytes": 3768
     },
     {
@@ -1687,6 +1927,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/71.json",
       "latest_key": "latest/health/subnets/71.json",
       "path": "/metagraph/health/subnets/71.json",
+      "sha256": "dd5d6c7933fe97cf96962c39bc65675af2cf59cbfd0ea31f17bceeb4b65d9954",
       "size_bytes": 3736
     },
     {
@@ -1694,6 +1935,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/72.json",
       "latest_key": "latest/health/subnets/72.json",
       "path": "/metagraph/health/subnets/72.json",
+      "sha256": "6ef11bc5619ad1926eb00ef10f8377fa64908bde0bd2f9bd89700a2eef5120e4",
       "size_bytes": 3855
     },
     {
@@ -1701,6 +1943,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/73.json",
       "latest_key": "latest/health/subnets/73.json",
       "path": "/metagraph/health/subnets/73.json",
+      "sha256": "6759538c2060dac732095c9c133fd620446e82f4a909bd00b76d4a0e81a38190",
       "size_bytes": 2141
     },
     {
@@ -1708,6 +1951,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/74.json",
       "latest_key": "latest/health/subnets/74.json",
       "path": "/metagraph/health/subnets/74.json",
+      "sha256": "e1597db151bac81e930491ba949fd8846ee0f41c83c56ab99bd24e7b7bc6d427",
       "size_bytes": 6152
     },
     {
@@ -1715,6 +1959,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/75.json",
       "latest_key": "latest/health/subnets/75.json",
       "path": "/metagraph/health/subnets/75.json",
+      "sha256": "2cbf38e0ad9908714bbdf9b8683c9e81d2973f14c42135b6486bb2f8c0db7601",
       "size_bytes": 7107
     },
     {
@@ -1722,6 +1967,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/76.json",
       "latest_key": "latest/health/subnets/76.json",
       "path": "/metagraph/health/subnets/76.json",
+      "sha256": "40f42ff56f9e9e46b6279ba978b209229f3d65366b7e5cb116d783c56d3648a9",
       "size_bytes": 2153
     },
     {
@@ -1729,6 +1975,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/77.json",
       "latest_key": "latest/health/subnets/77.json",
       "path": "/metagraph/health/subnets/77.json",
+      "sha256": "e96cc152ed4a95891f66b331d71cbe7459a2c71e226a1211b5d8bb916c809465",
       "size_bytes": 3725
     },
     {
@@ -1736,6 +1983,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/78.json",
       "latest_key": "latest/health/subnets/78.json",
       "path": "/metagraph/health/subnets/78.json",
+      "sha256": "91681eaab337e8f91b49244c5ee43e43f1daa4394ab7c57d50052577e9b7fe21",
       "size_bytes": 5372
     },
     {
@@ -1743,6 +1991,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/79.json",
       "latest_key": "latest/health/subnets/79.json",
       "path": "/metagraph/health/subnets/79.json",
+      "sha256": "dfdf163fdff5681065102db73829831cbbbf80efa286620d5ec0947f9eb3188d",
       "size_bytes": 7933
     },
     {
@@ -1750,6 +1999,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/8.json",
       "latest_key": "latest/health/subnets/8.json",
       "path": "/metagraph/health/subnets/8.json",
+      "sha256": "fbcfe0bfd1ec336dc80c488d15529e8684a433c96b8dae212c6ba5c01239bfa1",
       "size_bytes": 4551
     },
     {
@@ -1757,6 +2007,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/80.json",
       "latest_key": "latest/health/subnets/80.json",
       "path": "/metagraph/health/subnets/80.json",
+      "sha256": "92c5e3046ef830cdd61cf0182492b5b1d8973037b6b3842afec77a952e5eb32b",
       "size_bytes": 3775
     },
     {
@@ -1764,6 +2015,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/81.json",
       "latest_key": "latest/health/subnets/81.json",
       "path": "/metagraph/health/subnets/81.json",
+      "sha256": "738e0d5d7f42d5b25e97d379d0f99bb90e32573e142eb7cc1aeeea9606b9cf8a",
       "size_bytes": 6353
     },
     {
@@ -1771,6 +2023,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/82.json",
       "latest_key": "latest/health/subnets/82.json",
       "path": "/metagraph/health/subnets/82.json",
+      "sha256": "607f1993788cc378e2cd3c1d5878ea91b7add757f23bc30b5614f8ffc307fa9a",
       "size_bytes": 6243
     },
     {
@@ -1778,6 +2031,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/83.json",
       "latest_key": "latest/health/subnets/83.json",
       "path": "/metagraph/health/subnets/83.json",
+      "sha256": "882c9aec3bc3abaea3d9972be3956b9bf4bc6042a39e6d012b408d3573ee4c95",
       "size_bytes": 3731
     },
     {
@@ -1785,6 +2039,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/84.json",
       "latest_key": "latest/health/subnets/84.json",
       "path": "/metagraph/health/subnets/84.json",
+      "sha256": "885457dd75400b9db6fe91e6bfc9459ce41e33406d622e05b90f10ab6f15daa0",
       "size_bytes": 7109
     },
     {
@@ -1792,6 +2047,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/85.json",
       "latest_key": "latest/health/subnets/85.json",
       "path": "/metagraph/health/subnets/85.json",
+      "sha256": "d5b0c235b479c8a9ba6352952af86d9fcc99bddc0a50e7e9617a0e2bc03a2cf0",
       "size_bytes": 3731
     },
     {
@@ -1799,6 +2055,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/86.json",
       "latest_key": "latest/health/subnets/86.json",
       "path": "/metagraph/health/subnets/86.json",
+      "sha256": "bb7f89540e4848a4634a17a0963fa9c7b5a806cf67f516e3b8d1d5dbee11a602",
       "size_bytes": 2129
     },
     {
@@ -1806,6 +2063,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/87.json",
       "latest_key": "latest/health/subnets/87.json",
       "path": "/metagraph/health/subnets/87.json",
+      "sha256": "b5b9c44b40a26dc8259ca8d4836ba796aec590869234b69489d2800974a4b466",
       "size_bytes": 2954
     },
     {
@@ -1813,6 +2071,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/88.json",
       "latest_key": "latest/health/subnets/88.json",
       "path": "/metagraph/health/subnets/88.json",
+      "sha256": "e4ced2aca924df28882044354f84aecff8d4a602a3e158aae26a9bc8ad3fad1e",
       "size_bytes": 3748
     },
     {
@@ -1820,6 +2079,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/89.json",
       "latest_key": "latest/health/subnets/89.json",
       "path": "/metagraph/health/subnets/89.json",
+      "sha256": "fe06a8e67005dab82ebe131ec5345bf408aeaf249d7f11d53e5cfcfb58c52e17",
       "size_bytes": 2993
     },
     {
@@ -1827,6 +2087,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/9.json",
       "latest_key": "latest/health/subnets/9.json",
       "path": "/metagraph/health/subnets/9.json",
+      "sha256": "a1d7c59097c710ddbd13672943fe373ad8cf2fe0972340b195460173297d1c4c",
       "size_bytes": 4538
     },
     {
@@ -1834,6 +2095,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/90.json",
       "latest_key": "latest/health/subnets/90.json",
       "path": "/metagraph/health/subnets/90.json",
+      "sha256": "e615c494b1b9072a20ddea4139739459a27b0c7a739faa1c9ff4a2eb90c22e76",
       "size_bytes": 2137
     },
     {
@@ -1841,6 +2103,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/91.json",
       "latest_key": "latest/health/subnets/91.json",
       "path": "/metagraph/health/subnets/91.json",
+      "sha256": "24484ca8b088c17182b5b837e31905957f0c0ce199fc43535d7f1f392d99d05d",
       "size_bytes": 2986
     },
     {
@@ -1848,6 +2111,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/92.json",
       "latest_key": "latest/health/subnets/92.json",
       "path": "/metagraph/health/subnets/92.json",
+      "sha256": "9cbaa93d0c74fa48cea55f90fd1c399c0844774318b7bd861aad4bcbe0721066",
       "size_bytes": 3757
     },
     {
@@ -1855,6 +2119,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/93.json",
       "latest_key": "latest/health/subnets/93.json",
       "path": "/metagraph/health/subnets/93.json",
+      "sha256": "afb45bc9feabd0ae96bd224ecd3ba256d809d617048e58083585714a2e831bcf",
       "size_bytes": 3745
     },
     {
@@ -1862,6 +2127,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/94.json",
       "latest_key": "latest/health/subnets/94.json",
       "path": "/metagraph/health/subnets/94.json",
+      "sha256": "8c72e72c6498932b0ffabca1b07c43b12b4cb2441425404687d47f525660c404",
       "size_bytes": 3734
     },
     {
@@ -1869,6 +2135,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/95.json",
       "latest_key": "latest/health/subnets/95.json",
       "path": "/metagraph/health/subnets/95.json",
+      "sha256": "615ad39b727a1dc0466bd64ba24dd1746dc4ec6b4a4b28e88d1a65a7d7254c0d",
       "size_bytes": 2133
     },
     {
@@ -1876,6 +2143,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/96.json",
       "latest_key": "latest/health/subnets/96.json",
       "path": "/metagraph/health/subnets/96.json",
+      "sha256": "070b63b7c169c30535f5d435995bcb0f904d6b37356aaf756eb09656b88fb658",
       "size_bytes": 5442
     },
     {
@@ -1883,6 +2151,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/97.json",
       "latest_key": "latest/health/subnets/97.json",
       "path": "/metagraph/health/subnets/97.json",
+      "sha256": "e5c03b08a4f4415ea05f283599471b8d3e7aecb94f021942530858356fe52a71",
       "size_bytes": 7158
     },
     {
@@ -1890,6 +2159,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/98.json",
       "latest_key": "latest/health/subnets/98.json",
       "path": "/metagraph/health/subnets/98.json",
+      "sha256": "edc15a27c586e34cf26aac946798ab19797d43efe9a4da0a5b29b00dd991f25e",
       "size_bytes": 4615
     },
     {
@@ -1897,6 +2167,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/subnets/99.json",
       "latest_key": "latest/health/subnets/99.json",
       "path": "/metagraph/health/subnets/99.json",
+      "sha256": "687eeedf5036aa472f81ce80df9cc366b09597d443d02c0aa04abe1fe513ecef",
       "size_bytes": 4525
     },
     {
@@ -1904,6 +2175,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/health/summary.json",
       "latest_key": "latest/health/summary.json",
       "path": "/metagraph/health/summary.json",
+      "sha256": "64d41e0303403296c22953f17f136af5f93b9ac2e087d79a4ee9a649e999081c",
       "size_bytes": 45818
     },
     {
@@ -1911,6 +2183,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/metagraph/latest.json",
       "latest_key": "latest/metagraph/latest.json",
       "path": "/metagraph/metagraph/latest.json",
+      "sha256": "178484f1481726c2fe26e3a3d8a7585fc7e29e9401dba0cc5d3d13762d871810",
       "size_bytes": 108887
     },
     {
@@ -1918,6 +2191,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/openapi.json",
       "latest_key": "latest/openapi.json",
       "path": "/metagraph/openapi.json",
+      "sha256": "6c90b949861abecef3bc7149ec68e53b6627a52f782b6cc60a9c47658cf2841a",
       "size_bytes": 84186
     },
     {
@@ -1925,6 +2199,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/providers.json",
       "latest_key": "latest/providers.json",
       "path": "/metagraph/providers.json",
+      "sha256": "2e79fce566b0f4f16ff83462c76d8544cd3ce88ede2e2d7c0f8901d5e31f7075",
       "size_bytes": 5761
     },
     {
@@ -1932,6 +2207,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/review-queue.json",
       "latest_key": "latest/review-queue.json",
       "path": "/metagraph/review-queue.json",
+      "sha256": "1579c9bf92f431980e6f22c7c969d5f648fdccb524219ea906ed9f50819aaf1c",
       "size_bytes": 1845722
     },
     {
@@ -1939,6 +2215,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/review/adapter-candidates.json",
       "latest_key": "latest/review/adapter-candidates.json",
       "path": "/metagraph/review/adapter-candidates.json",
+      "sha256": "ab89c075b4cd4acd981d3a56ab8089d7b3e84f925665b351997556877ad4eca7",
       "size_bytes": 4837
     },
     {
@@ -1946,6 +2223,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/review/curation.json",
       "latest_key": "latest/review/curation.json",
       "path": "/metagraph/review/curation.json",
+      "sha256": "9b2422a88de06d4cf9690bd6fa72e8d30bc8dc7b85cb0aba7eb3df7a8eb648b8",
       "size_bytes": 74395
     },
     {
@@ -1953,6 +2231,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/review/gap-priorities.json",
       "latest_key": "latest/review/gap-priorities.json",
       "path": "/metagraph/review/gap-priorities.json",
+      "sha256": "e42e50fcf8cabc3cf17437a0a47df00db96a1dda0ba4dd4c86a1649f7fd1054a",
       "size_bytes": 67686
     },
     {
@@ -1960,6 +2239,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/review/maintainer-decisions.json",
       "latest_key": "latest/review/maintainer-decisions.json",
       "path": "/metagraph/review/maintainer-decisions.json",
+      "sha256": "2e57a1b5a17d8212169056572adb6ea7e55e74d0cb2b73a5ba581c597eac371f",
       "size_bytes": 1714
     },
     {
@@ -1967,6 +2247,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/rpc-endpoints.json",
       "latest_key": "latest/rpc-endpoints.json",
       "path": "/metagraph/rpc-endpoints.json",
+      "sha256": "0080bea43b2e111a44fff9c37e5b0a455949a9031951ba64f5086441e5091afb",
       "size_bytes": 7155
     },
     {
@@ -1974,6 +2255,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/rpc/pools.json",
       "latest_key": "latest/rpc/pools.json",
       "path": "/metagraph/rpc/pools.json",
+      "sha256": "b2516b55c44dbdc54cae5beaae2e2cd2f559343c07affcdfa21a3c6b1eea0207",
       "size_bytes": 5422
     },
     {
@@ -1981,6 +2263,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/schema-drift.json",
       "latest_key": "latest/schema-drift.json",
       "path": "/metagraph/schema-drift.json",
+      "sha256": "1584b16a1b33b70470ee4c2a7e5617ac372a6c1a1c518a08b2cc929e02c2664b",
       "size_bytes": 720
     },
     {
@@ -1988,6 +2271,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/schemas/allways-swagger.json",
       "latest_key": "latest/schemas/allways-swagger.json",
       "path": "/metagraph/schemas/allways-swagger.json",
+      "sha256": "827b3e0927a76e7b589ae0a03f71584d81fe3506ea430e8334be6804e296b074",
       "size_bytes": 618
     },
     {
@@ -1995,6 +2279,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/schemas/index.json",
       "latest_key": "latest/schemas/index.json",
       "path": "/metagraph/schemas/index.json",
+      "sha256": "80bad8deeacc164319b019db492e4d49ec666fef53cb5f07a070fbb6bd50aeac",
       "size_bytes": 1636
     },
     {
@@ -2002,6 +2287,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/search.json",
       "latest_key": "latest/search.json",
       "path": "/metagraph/search.json",
+      "sha256": "20c41d24b53887e2de74f9b30e70de159ecbfa4a8fefe8f6bf656068f2f86490",
       "size_bytes": 330074
     },
     {
@@ -2009,6 +2295,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/source-health.json",
       "latest_key": "latest/source-health.json",
       "path": "/metagraph/source-health.json",
+      "sha256": "50a530fff942e56d9565d3ffc2ae079829fa63f620ac28f43908f9cfe0d7b222",
       "size_bytes": 4752
     },
     {
@@ -2016,6 +2303,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/source-snapshots.json",
       "latest_key": "latest/source-snapshots.json",
       "path": "/metagraph/source-snapshots.json",
+      "sha256": "d32287a7263c6a66379dd7ade64cae0f18e48b57428720009219cbfc3eca7479",
       "size_bytes": 2739
     },
     {
@@ -2023,6 +2311,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets.json",
       "latest_key": "latest/subnets.json",
       "path": "/metagraph/subnets.json",
+      "sha256": "2462c6a094d27e778dcdf786cc5a8ce77bc4111d3af4056999cf816c58caa296",
       "size_bytes": 108756
     },
     {
@@ -2030,6 +2319,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/0.json",
       "latest_key": "latest/subnets/0.json",
       "path": "/metagraph/subnets/0.json",
+      "sha256": "c012801e56e979c4493df856048620ddf284d0ad987e69c5449dd50405eb555e",
       "size_bytes": 22638
     },
     {
@@ -2037,6 +2327,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/1.json",
       "latest_key": "latest/subnets/1.json",
       "path": "/metagraph/subnets/1.json",
+      "sha256": "fcb6039d2488f151981f4412c6f025c4bb078c47cfb6cd095021ab0de884bc96",
       "size_bytes": 28468
     },
     {
@@ -2044,6 +2335,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/10.json",
       "latest_key": "latest/subnets/10.json",
       "path": "/metagraph/subnets/10.json",
+      "sha256": "6a3d44d54dfeb143c5413327bbe96c5ced06b9ca9ffb17e7a3f01a3742abd6ed",
       "size_bytes": 21373
     },
     {
@@ -2051,6 +2343,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/100.json",
       "latest_key": "latest/subnets/100.json",
       "path": "/metagraph/subnets/100.json",
+      "sha256": "a1f59b3d1966d0de527439a55968962f4fe06e8a75980085c0e0cb914054cb48",
       "size_bytes": 31730
     },
     {
@@ -2058,6 +2351,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/101.json",
       "latest_key": "latest/subnets/101.json",
       "path": "/metagraph/subnets/101.json",
+      "sha256": "6d25208f9785202d480a0ae58632f37b44be684fd0d25d926dde56335711c149",
       "size_bytes": 12533
     },
     {
@@ -2065,6 +2359,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/102.json",
       "latest_key": "latest/subnets/102.json",
       "path": "/metagraph/subnets/102.json",
+      "sha256": "d83cf9c9809ee3e9e873684015fea5d80f9d7a9c545a7273e975860df082fbda",
       "size_bytes": 21515
     },
     {
@@ -2072,6 +2367,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/103.json",
       "latest_key": "latest/subnets/103.json",
       "path": "/metagraph/subnets/103.json",
+      "sha256": "02844eb732cfeb583d0f141075e212cfc367581312b984e7dd0af9e7ba6388b3",
       "size_bytes": 21423
     },
     {
@@ -2079,6 +2375,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/104.json",
       "latest_key": "latest/subnets/104.json",
       "path": "/metagraph/subnets/104.json",
+      "sha256": "3428125666d52e92e0247635e89b38f0ae76cf6b1c1a46db6f46f822d2b428db",
       "size_bytes": 12829
     },
     {
@@ -2086,6 +2383,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/105.json",
       "latest_key": "latest/subnets/105.json",
       "path": "/metagraph/subnets/105.json",
+      "sha256": "33f4201065c0890d30c7eb5cd3e0f3c45275cbd5094b06bb6ec54244682cc582",
       "size_bytes": 21417
     },
     {
@@ -2093,6 +2391,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/106.json",
       "latest_key": "latest/subnets/106.json",
       "path": "/metagraph/subnets/106.json",
+      "sha256": "b635ddac2ce4377e08b36805f55e60b5154a25845caca447941742bd9b5fddaf",
       "size_bytes": 21391
     },
     {
@@ -2100,6 +2399,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/107.json",
       "latest_key": "latest/subnets/107.json",
       "path": "/metagraph/subnets/107.json",
+      "sha256": "7d0d96613b546f4d6d9c4f95f3b642485552710f7cc2bad63bf81229cb678eee",
       "size_bytes": 40382
     },
     {
@@ -2107,6 +2407,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/108.json",
       "latest_key": "latest/subnets/108.json",
       "path": "/metagraph/subnets/108.json",
+      "sha256": "708f4914e3f20b6e584bb9e3311b44ac8fa9b279adfe4aa23a2cd08d67b33abf",
       "size_bytes": 21568
     },
     {
@@ -2114,6 +2415,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/109.json",
       "latest_key": "latest/subnets/109.json",
       "path": "/metagraph/subnets/109.json",
+      "sha256": "921daab56d9e9dcfaf3b6f7076fa3a63a3b8742ba93f126131b6c797d5ed13df",
       "size_bytes": 17194
     },
     {
@@ -2121,6 +2423,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/11.json",
       "latest_key": "latest/subnets/11.json",
       "path": "/metagraph/subnets/11.json",
+      "sha256": "c7b5f5a754b8c274a8a272f95374eca1fc7cf8cc285fb1a9b1f618cb3704904a",
       "size_bytes": 21568
     },
     {
@@ -2128,6 +2431,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/110.json",
       "latest_key": "latest/subnets/110.json",
       "path": "/metagraph/subnets/110.json",
+      "sha256": "4ac9ff90aa085c6b5066337d3717cf83be0ddc92726a814a9eeb7af3919c839c",
       "size_bytes": 22118
     },
     {
@@ -2135,6 +2439,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/111.json",
       "latest_key": "latest/subnets/111.json",
       "path": "/metagraph/subnets/111.json",
+      "sha256": "572d79fb620c9266d9d63d1c6bbfe1e3b03e199c02ad6dc8660e85ca883f515b",
       "size_bytes": 17236
     },
     {
@@ -2142,6 +2447,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/112.json",
       "latest_key": "latest/subnets/112.json",
       "path": "/metagraph/subnets/112.json",
+      "sha256": "941d898fabb7301896ec617d3ac67f1a6ed9026c29eeaa526a5df3e2b63e8b32",
       "size_bytes": 21576
     },
     {
@@ -2149,6 +2455,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/113.json",
       "latest_key": "latest/subnets/113.json",
       "path": "/metagraph/subnets/113.json",
+      "sha256": "03b169f7f71c266a08a0be08aa64c7102f2146b92fdeac76ae5e9e71468b999a",
       "size_bytes": 21515
     },
     {
@@ -2156,6 +2463,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/114.json",
       "latest_key": "latest/subnets/114.json",
       "path": "/metagraph/subnets/114.json",
+      "sha256": "aaa1e00afd37231adb41d5c77f4717c6e3d6f97c2304ae9cc3475ab749a17126",
       "size_bytes": 33416
     },
     {
@@ -2163,6 +2471,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/115.json",
       "latest_key": "latest/subnets/115.json",
       "path": "/metagraph/subnets/115.json",
+      "sha256": "a7f09db7ec5222979647d2e4a9acbb20a291710257653270a43a9b8ecf237697",
       "size_bytes": 17229
     },
     {
@@ -2170,6 +2479,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/116.json",
       "latest_key": "latest/subnets/116.json",
       "path": "/metagraph/subnets/116.json",
+      "sha256": "12aef09278d5549699b8817ee497576a0af56c8b1d7dc35114af798cf80c28e9",
       "size_bytes": 14577
     },
     {
@@ -2177,6 +2487,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/117.json",
       "latest_key": "latest/subnets/117.json",
       "path": "/metagraph/subnets/117.json",
+      "sha256": "d63ccff34581f6ac295415fee870c21e107ba368793e517d9df8a8b9faa618d2",
       "size_bytes": 60304
     },
     {
@@ -2184,6 +2495,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/118.json",
       "latest_key": "latest/subnets/118.json",
       "path": "/metagraph/subnets/118.json",
+      "sha256": "4c0612ce56a5cb6997ca008b47ea7f713b7f1a83082fcac2554f5ff996dbfc2f",
       "size_bytes": 83846
     },
     {
@@ -2191,6 +2503,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/119.json",
       "latest_key": "latest/subnets/119.json",
       "path": "/metagraph/subnets/119.json",
+      "sha256": "3e7377ffa3258c5106c04c1edf3bb75f0d7e4f616fe3fbc5ad8f60714751872d",
       "size_bytes": 14316
     },
     {
@@ -2198,6 +2511,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/12.json",
       "latest_key": "latest/subnets/12.json",
       "path": "/metagraph/subnets/12.json",
+      "sha256": "f4761058cd69aef1e5b3f298bdcbd4b6eff12f0d3c6d1c2e3201f4a7b0690af2",
       "size_bytes": 17344
     },
     {
@@ -2205,6 +2519,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/120.json",
       "latest_key": "latest/subnets/120.json",
       "path": "/metagraph/subnets/120.json",
+      "sha256": "4fc39618e538f4cf19ade0e375fc2f825241ecbc62b044c8b56bfcbee43c7a34",
       "size_bytes": 21588
     },
     {
@@ -2212,6 +2527,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/121.json",
       "latest_key": "latest/subnets/121.json",
       "path": "/metagraph/subnets/121.json",
+      "sha256": "e58697e54c7191238fe0438886d4d17f866bb081c739fc2f7145aee52d1d8946",
       "size_bytes": 21635
     },
     {
@@ -2219,6 +2535,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/122.json",
       "latest_key": "latest/subnets/122.json",
       "path": "/metagraph/subnets/122.json",
+      "sha256": "999425d4b9904d350171ef2690b39130b17448dc59dbcfa13eaf7bc8a7ccbe6e",
       "size_bytes": 19690
     },
     {
@@ -2226,6 +2543,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/123.json",
       "latest_key": "latest/subnets/123.json",
       "path": "/metagraph/subnets/123.json",
+      "sha256": "c5157cd02526c64aa10ecc8c7fb0e51a6f796080f9d5b9fa3cec76c111fa6c7b",
       "size_bytes": 17147
     },
     {
@@ -2233,6 +2551,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/124.json",
       "latest_key": "latest/subnets/124.json",
       "path": "/metagraph/subnets/124.json",
+      "sha256": "60d92babe6fa4a75d64560bc33152e383e0236b9ea978a49d5b2014f49c4ee4a",
       "size_bytes": 21488
     },
     {
@@ -2240,6 +2559,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/125.json",
       "latest_key": "latest/subnets/125.json",
       "path": "/metagraph/subnets/125.json",
+      "sha256": "d34214711161b24806bcda3a778faefcf16dc657ecc50af763694acb30c41af0",
       "size_bytes": 12579
     },
     {
@@ -2247,6 +2567,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/126.json",
       "latest_key": "latest/subnets/126.json",
       "path": "/metagraph/subnets/126.json",
+      "sha256": "03113664103fdf4561b3572fedd1df6e7c6c3823c6ba9e619f06690d64a96245",
       "size_bytes": 21495
     },
     {
@@ -2254,6 +2575,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/127.json",
       "latest_key": "latest/subnets/127.json",
       "path": "/metagraph/subnets/127.json",
+      "sha256": "c0d1dd51ac37c6d7b30f618c49e56cac5f31911d599521ae51c87b9464ee397d",
       "size_bytes": 21569
     },
     {
@@ -2261,6 +2583,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/128.json",
       "latest_key": "latest/subnets/128.json",
       "path": "/metagraph/subnets/128.json",
+      "sha256": "1ce5559da99cad8a98cc4537fb6f83bf811a118f52e4d66ce8149eed1c910f9e",
       "size_bytes": 26630
     },
     {
@@ -2268,6 +2591,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/13.json",
       "latest_key": "latest/subnets/13.json",
       "path": "/metagraph/subnets/13.json",
+      "sha256": "d99cf34c742b47b0908e00e249e037bcf8c566d98491aeedbf207a34cc89504e",
       "size_bytes": 21755
     },
     {
@@ -2275,6 +2599,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/14.json",
       "latest_key": "latest/subnets/14.json",
       "path": "/metagraph/subnets/14.json",
+      "sha256": "f0fc57ec61e849a0b609f704e87a7af527557116c8a935df83f17c0c03bace4e",
       "size_bytes": 88134
     },
     {
@@ -2282,6 +2607,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/15.json",
       "latest_key": "latest/subnets/15.json",
       "path": "/metagraph/subnets/15.json",
+      "sha256": "1c57412fd85bdbaf84d44c9f76ff3c9697fc1ea05cccb129cd96962046b68f0b",
       "size_bytes": 21235
     },
     {
@@ -2289,6 +2615,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/16.json",
       "latest_key": "latest/subnets/16.json",
       "path": "/metagraph/subnets/16.json",
+      "sha256": "30c61c2d6f05bec1f2d031634cb7ea981099de917ce2fad10a2693d5820db72d",
       "size_bytes": 21350
     },
     {
@@ -2296,6 +2623,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/17.json",
       "latest_key": "latest/subnets/17.json",
       "path": "/metagraph/subnets/17.json",
+      "sha256": "bc7d1617d095d808ff58205b0d5cf46213d45bfd7343cfe26cd0fb973a061697",
       "size_bytes": 81227
     },
     {
@@ -2303,6 +2631,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/18.json",
       "latest_key": "latest/subnets/18.json",
       "path": "/metagraph/subnets/18.json",
+      "sha256": "972ddddb7fd537527c99edbd34329e04191c5b76b2840f3d308e8f9ffffe0533",
       "size_bytes": 21322
     },
     {
@@ -2310,6 +2639,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/19.json",
       "latest_key": "latest/subnets/19.json",
       "path": "/metagraph/subnets/19.json",
+      "sha256": "58b78851888e971046a3e0c1cd4c67ccf456a62168fe296ab65484fc36fe6e8f",
       "size_bytes": 21557
     },
     {
@@ -2317,6 +2647,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/2.json",
       "latest_key": "latest/subnets/2.json",
       "path": "/metagraph/subnets/2.json",
+      "sha256": "17f73e3f5b3c5e02d9dd9286b881cdfa19a02b61c12ed0812ae11221a75804d9",
       "size_bytes": 26641
     },
     {
@@ -2324,6 +2655,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/20.json",
       "latest_key": "latest/subnets/20.json",
       "path": "/metagraph/subnets/20.json",
+      "sha256": "3a9e392c64e6cd22b1d34049796b58d8163747dbdda713bb4124848398358769",
       "size_bytes": 18756
     },
     {
@@ -2331,6 +2663,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/21.json",
       "latest_key": "latest/subnets/21.json",
       "path": "/metagraph/subnets/21.json",
+      "sha256": "4c78074de61455eb64dbfb14d8dea8b4a4a853e2bdf92e41963de5020260bdb1",
       "size_bytes": 16857
     },
     {
@@ -2338,6 +2671,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/22.json",
       "latest_key": "latest/subnets/22.json",
       "path": "/metagraph/subnets/22.json",
+      "sha256": "3f8eedf43c3081a25dbffad0f76266df302e3e722eb356ae888181a61f8150ab",
       "size_bytes": 21556
     },
     {
@@ -2345,6 +2679,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/23.json",
       "latest_key": "latest/subnets/23.json",
       "path": "/metagraph/subnets/23.json",
+      "sha256": "e6a501f7bb4e16b1354e2e0a7d84b6b826b8cba3dd3308cc25fae6827d144f75",
       "size_bytes": 38425
     },
     {
@@ -2352,6 +2687,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/24.json",
       "latest_key": "latest/subnets/24.json",
       "path": "/metagraph/subnets/24.json",
+      "sha256": "c809b21444285e99dfde80c73c158241d590df520dadbc4a987c2571e0acc478",
       "size_bytes": 21397
     },
     {
@@ -2359,6 +2695,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/25.json",
       "latest_key": "latest/subnets/25.json",
       "path": "/metagraph/subnets/25.json",
+      "sha256": "ee9bb91c2498924226fcc1238f9d652eef425054ae588617b064ca44edcfa0c4",
       "size_bytes": 21566
     },
     {
@@ -2366,6 +2703,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/26.json",
       "latest_key": "latest/subnets/26.json",
       "path": "/metagraph/subnets/26.json",
+      "sha256": "f4d39668f078ac605daed8f8af82f78d78be7975b88539c2e1a89fdfb65b501e",
       "size_bytes": 23346
     },
     {
@@ -2373,6 +2711,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/27.json",
       "latest_key": "latest/subnets/27.json",
       "path": "/metagraph/subnets/27.json",
+      "sha256": "3505195a9a69c2acfc3e95c2cb963e02650967edc576f30ab5d983c18baf21a9",
       "size_bytes": 15949
     },
     {
@@ -2380,6 +2719,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/28.json",
       "latest_key": "latest/subnets/28.json",
       "path": "/metagraph/subnets/28.json",
+      "sha256": "269b1f8812a968dae4a22e9a084730b6e050ae8c652c51297d6084ebda9007a2",
       "size_bytes": 12473
     },
     {
@@ -2387,6 +2727,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/29.json",
       "latest_key": "latest/subnets/29.json",
       "path": "/metagraph/subnets/29.json",
+      "sha256": "0904ff4b6afa29093b72d127db1e8f3e8b8f398ee20b6e40826e3e8735c6d19f",
       "size_bytes": 28798
     },
     {
@@ -2394,6 +2735,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/3.json",
       "latest_key": "latest/subnets/3.json",
       "path": "/metagraph/subnets/3.json",
+      "sha256": "6cfd89f6774b9e059380098a94700b39a238d5c5fcfce1384a2225fc704e9b9b",
       "size_bytes": 85744
     },
     {
@@ -2401,6 +2743,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/30.json",
       "latest_key": "latest/subnets/30.json",
       "path": "/metagraph/subnets/30.json",
+      "sha256": "f0617d80124e3cbfe1cbdc4b582d3400d2faa9d4bf2ead7061599f95b1e266de",
       "size_bytes": 17000
     },
     {
@@ -2408,6 +2751,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/31.json",
       "latest_key": "latest/subnets/31.json",
       "path": "/metagraph/subnets/31.json",
+      "sha256": "a2f6abd6cdbcb292fd1146b59b92f3fc9cd3dab466e7671cfeabb5f7ee2457c3",
       "size_bytes": 12533
     },
     {
@@ -2415,6 +2759,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/32.json",
       "latest_key": "latest/subnets/32.json",
       "path": "/metagraph/subnets/32.json",
+      "sha256": "b0da17aee9906dee1ab2424c306cca4ef3c640091f3cf65bbdc52050e017254c",
       "size_bytes": 21361
     },
     {
@@ -2422,6 +2767,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/33.json",
       "latest_key": "latest/subnets/33.json",
       "path": "/metagraph/subnets/33.json",
+      "sha256": "bcc0f2c81570a445864b6d0cffb4bbe6b798fe17b777d24e1f635f6b07173b46",
       "size_bytes": 17323
     },
     {
@@ -2429,6 +2775,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/34.json",
       "latest_key": "latest/subnets/34.json",
       "path": "/metagraph/subnets/34.json",
+      "sha256": "cfe2bdc2d783ada4b373af75ffa5fe79512b0816b8820e8a7a9573d5d328c82d",
       "size_bytes": 17148
     },
     {
@@ -2436,6 +2783,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/35.json",
       "latest_key": "latest/subnets/35.json",
       "path": "/metagraph/subnets/35.json",
+      "sha256": "a3a576a64260fe12f50724a453f3fe2850928c1774bbc143262a70f55e37f075",
       "size_bytes": 31701
     },
     {
@@ -2443,6 +2791,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/36.json",
       "latest_key": "latest/subnets/36.json",
       "path": "/metagraph/subnets/36.json",
+      "sha256": "4493084726185c16abdeb0723652ebdcdfad52e0a4a70c8420585220c0ddd383",
       "size_bytes": 21396
     },
     {
@@ -2450,6 +2799,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/37.json",
       "latest_key": "latest/subnets/37.json",
       "path": "/metagraph/subnets/37.json",
+      "sha256": "2fe1a4d98bca4a1210660b20041a797366f9a7ec6c132f05a7e771b1a4f77696",
       "size_bytes": 26462
     },
     {
@@ -2457,6 +2807,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/38.json",
       "latest_key": "latest/subnets/38.json",
       "path": "/metagraph/subnets/38.json",
+      "sha256": "bb19c13d6ac7c23ae7509e4e7ee038af516339ce982296e19bbbec79bb2ee9d8",
       "size_bytes": 21570
     },
     {
@@ -2464,6 +2815,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/39.json",
       "latest_key": "latest/subnets/39.json",
       "path": "/metagraph/subnets/39.json",
+      "sha256": "72f2440368395c5bb028b26ed7711b6e896130e534c86b2d3e770c5e2db44cd4",
       "size_bytes": 19362
     },
     {
@@ -2471,6 +2823,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/4.json",
       "latest_key": "latest/subnets/4.json",
       "path": "/metagraph/subnets/4.json",
+      "sha256": "2360d131bd09ff1326472935961a42f01fa136b6a10386b0f3a85ea2e0d82734",
       "size_bytes": 31337
     },
     {
@@ -2478,6 +2831,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/40.json",
       "latest_key": "latest/subnets/40.json",
       "path": "/metagraph/subnets/40.json",
+      "sha256": "00cb462bf9e81d28fbfee053a38d86d05baa1383f0e5a3fe1a5b4ae62e8eb189",
       "size_bytes": 14317
     },
     {
@@ -2485,6 +2839,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/41.json",
       "latest_key": "latest/subnets/41.json",
       "path": "/metagraph/subnets/41.json",
+      "sha256": "452a846916dcf8e50ba12076d1f4c7354dea87108dc62904c78f92d78f8748ab",
       "size_bytes": 21399
     },
     {
@@ -2492,6 +2847,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/42.json",
       "latest_key": "latest/subnets/42.json",
       "path": "/metagraph/subnets/42.json",
+      "sha256": "27381396657a05c00ce782b2e27ac67b431be566af7db00cc55f462c48f59234",
       "size_bytes": 12548
     },
     {
@@ -2499,6 +2855,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/43.json",
       "latest_key": "latest/subnets/43.json",
       "path": "/metagraph/subnets/43.json",
+      "sha256": "6e3e1fa14cafceaf02538e43fd0e4ebe390e4a35450639ff2e429964f32b23cb",
       "size_bytes": 17176
     },
     {
@@ -2506,6 +2863,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/44.json",
       "latest_key": "latest/subnets/44.json",
       "path": "/metagraph/subnets/44.json",
+      "sha256": "271742e74c1ade992b638add4bd1ec586052dabe0c6f09ddc3bc641f6408ec05",
       "size_bytes": 26550
     },
     {
@@ -2513,6 +2871,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/45.json",
       "latest_key": "latest/subnets/45.json",
       "path": "/metagraph/subnets/45.json",
+      "sha256": "b3a2ab62ca14a855f4f07d5fc06179db79058ac2ddc10150bef6a31064d62753",
       "size_bytes": 21545
     },
     {
@@ -2520,6 +2879,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/46.json",
       "latest_key": "latest/subnets/46.json",
       "path": "/metagraph/subnets/46.json",
+      "sha256": "421335b3b7ac4095d7d7d98ad448e62f9d7f80e1c0c8bbc3c5916fc239f05e92",
       "size_bytes": 107418
     },
     {
@@ -2527,6 +2887,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/47.json",
       "latest_key": "latest/subnets/47.json",
       "path": "/metagraph/subnets/47.json",
+      "sha256": "81940fb24e45abeca120ac37f8bb507199c97e9dee16430ec95356fa32e74f54",
       "size_bytes": 33913
     },
     {
@@ -2534,6 +2895,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/48.json",
       "latest_key": "latest/subnets/48.json",
       "path": "/metagraph/subnets/48.json",
+      "sha256": "c351e2af2570a7c573654cb1026f296d12ac16abc735146c326142fddf0b42a1",
       "size_bytes": 23727
     },
     {
@@ -2541,6 +2903,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/49.json",
       "latest_key": "latest/subnets/49.json",
       "path": "/metagraph/subnets/49.json",
+      "sha256": "8b39461fc62c08e4087a13c56ab31dd5cf187cdbc1f45ea64eef417b7972cbae",
       "size_bytes": 18988
     },
     {
@@ -2548,6 +2911,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/5.json",
       "latest_key": "latest/subnets/5.json",
       "path": "/metagraph/subnets/5.json",
+      "sha256": "cd678eebdb2d8160f5640b1e4c9d86f227cd051c607f3fc95e2d04fbebf92f4a",
       "size_bytes": 26434
     },
     {
@@ -2555,6 +2919,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/50.json",
       "latest_key": "latest/subnets/50.json",
       "path": "/metagraph/subnets/50.json",
+      "sha256": "98d2aa6674979beb485ea293d19a7a7539bccb81008dd2e6fc8fac100f8bbe97",
       "size_bytes": 21481
     },
     {
@@ -2562,6 +2927,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/51.json",
       "latest_key": "latest/subnets/51.json",
       "path": "/metagraph/subnets/51.json",
+      "sha256": "ec6e042b9b57afee4a9d7caa60d0a4f16726402ecdd3f24875f068eae667a97b",
       "size_bytes": 21364
     },
     {
@@ -2569,6 +2935,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/52.json",
       "latest_key": "latest/subnets/52.json",
       "path": "/metagraph/subnets/52.json",
+      "sha256": "9b54cf57c555ab8fb5cd703ecf4e09886d3a3be99760e620214a69df53b475e8",
       "size_bytes": 99939
     },
     {
@@ -2576,6 +2943,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/53.json",
       "latest_key": "latest/subnets/53.json",
       "path": "/metagraph/subnets/53.json",
+      "sha256": "bb65f3b2c500d3373cca03e913a4c9e58f3fbd0b1641dfdc2308cf4a72e07f8d",
       "size_bytes": 14510
     },
     {
@@ -2583,6 +2951,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/54.json",
       "latest_key": "latest/subnets/54.json",
       "path": "/metagraph/subnets/54.json",
+      "sha256": "2f97a7720d89d1dc7fd7359dc7fc393903365ce41bfc42b5baacfa81dd8156e2",
       "size_bytes": 21545
     },
     {
@@ -2590,6 +2959,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/55.json",
       "latest_key": "latest/subnets/55.json",
       "path": "/metagraph/subnets/55.json",
+      "sha256": "571ec9cbb6a5fc5e64fd95083092cf86990d2d23dd35dcdfdf6564a74c2c3291",
       "size_bytes": 21388
     },
     {
@@ -2597,6 +2967,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/56.json",
       "latest_key": "latest/subnets/56.json",
       "path": "/metagraph/subnets/56.json",
+      "sha256": "2a7faf70efb86e635c487032670a87b5dbc40021d2de85400c4e9f3355942a07",
       "size_bytes": 26542
     },
     {
@@ -2604,6 +2975,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/57.json",
       "latest_key": "latest/subnets/57.json",
       "path": "/metagraph/subnets/57.json",
+      "sha256": "a774f2c8d4e387e8cd0329437233badcf9a0a1a16d6329687f9a4d65ad754b5d",
       "size_bytes": 17435
     },
     {
@@ -2611,6 +2983,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/58.json",
       "latest_key": "latest/subnets/58.json",
       "path": "/metagraph/subnets/58.json",
+      "sha256": "46b4551a9031422481e8d6908a84ae6b76454165100850679bba76065aac00b4",
       "size_bytes": 85823
     },
     {
@@ -2618,6 +2991,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/59.json",
       "latest_key": "latest/subnets/59.json",
       "path": "/metagraph/subnets/59.json",
+      "sha256": "df1d5bb9192da8b692a34d9e6f4626639cf978e846ca3fb8fa76f21443e58da6",
       "size_bytes": 21458
     },
     {
@@ -2625,6 +2999,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/6.json",
       "latest_key": "latest/subnets/6.json",
       "path": "/metagraph/subnets/6.json",
+      "sha256": "3edc13ab7dcde9b825dac21496a53adf0ba6530b59dc0f4bf0d40046d6e74cb0",
       "size_bytes": 26556
     },
     {
@@ -2632,6 +3007,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/60.json",
       "latest_key": "latest/subnets/60.json",
       "path": "/metagraph/subnets/60.json",
+      "sha256": "3f27b8a81b2eabe3e8652403b6b9af9db6ef24d2b05a6ea41495e19059e8157c",
       "size_bytes": 33065
     },
     {
@@ -2639,6 +3015,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/61.json",
       "latest_key": "latest/subnets/61.json",
       "path": "/metagraph/subnets/61.json",
+      "sha256": "2b13485b2e6bd9e32ba5f576b6d3578f8f1be22cf644bb9b973a95026fd4e3ac",
       "size_bytes": 21440
     },
     {
@@ -2646,6 +3023,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/62.json",
       "latest_key": "latest/subnets/62.json",
       "path": "/metagraph/subnets/62.json",
+      "sha256": "b29a4ccab5b612df22a514e9f4caddcf33ac2c505faf5c80e853b224c89ca8a0",
       "size_bytes": 18725
     },
     {
@@ -2653,6 +3031,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/63.json",
       "latest_key": "latest/subnets/63.json",
       "path": "/metagraph/subnets/63.json",
+      "sha256": "1966c8c4d5dd53467055e2b4c8b6373b032ec7e69d9992d181547021c29e3ac2",
       "size_bytes": 23401
     },
     {
@@ -2660,6 +3039,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/64.json",
       "latest_key": "latest/subnets/64.json",
       "path": "/metagraph/subnets/64.json",
+      "sha256": "6b23e85a9601224e16a67272fa7a718fed0784d1e8544a0c9d3be221fed88346",
       "size_bytes": 57010
     },
     {
@@ -2667,6 +3047,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/65.json",
       "latest_key": "latest/subnets/65.json",
       "path": "/metagraph/subnets/65.json",
+      "sha256": "3de5407e8abcd4afc9f125f9f7bfa0d1b016409ea500ec09ab1277d2c821e577",
       "size_bytes": 21744
     },
     {
@@ -2674,6 +3055,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/66.json",
       "latest_key": "latest/subnets/66.json",
       "path": "/metagraph/subnets/66.json",
+      "sha256": "6ad1e7ea1eccd58362fb48ad135f55877f3bbca887cd9f9fd2959d43046f17d7",
       "size_bytes": 21281
     },
     {
@@ -2681,6 +3063,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/67.json",
       "latest_key": "latest/subnets/67.json",
       "path": "/metagraph/subnets/67.json",
+      "sha256": "ed8d6cf72dd1686ec94067cbcc898d1fcf9ea92c829ddef24ddd24d08f7d0398",
       "size_bytes": 26453
     },
     {
@@ -2688,6 +3071,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/68.json",
       "latest_key": "latest/subnets/68.json",
       "path": "/metagraph/subnets/68.json",
+      "sha256": "de516eeb98895f01f51c7702348f9d6c76feb9787d389484a01026b9f3a410ad",
       "size_bytes": 21322
     },
     {
@@ -2695,6 +3079,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/69.json",
       "latest_key": "latest/subnets/69.json",
       "path": "/metagraph/subnets/69.json",
+      "sha256": "ffe6232977af5b140639e72a6e9e25d6ab43d8b462504f1ce253ac1a7d8b7feb",
       "size_bytes": 12488
     },
     {
@@ -2702,6 +3087,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/7.json",
       "latest_key": "latest/subnets/7.json",
       "path": "/metagraph/subnets/7.json",
+      "sha256": "bff71188fb7255f41beb25bc1d01f1b186eaf94dd4bc1cda571c58e977082e16",
       "size_bytes": 26409
     },
     {
@@ -2709,6 +3095,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/70.json",
       "latest_key": "latest/subnets/70.json",
       "path": "/metagraph/subnets/70.json",
+      "sha256": "3d5c8a3bd06401ffc6fc2296f1e75d56e7369d58872fec4da5f6dd1563381a35",
       "size_bytes": 21498
     },
     {
@@ -2716,6 +3103,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/71.json",
       "latest_key": "latest/subnets/71.json",
       "path": "/metagraph/subnets/71.json",
+      "sha256": "20ff450efe93d4522824bcefd6c4801531954ef3154e2286855af69896aee295",
       "size_bytes": 21415
     },
     {
@@ -2723,6 +3111,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/72.json",
       "latest_key": "latest/subnets/72.json",
       "path": "/metagraph/subnets/72.json",
+      "sha256": "32bcf54c88b4655b10837e82e5827237e7dcd1258afbdb483ec7ea2b067d8ef3",
       "size_bytes": 22000
     },
     {
@@ -2730,6 +3119,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/73.json",
       "latest_key": "latest/subnets/73.json",
       "path": "/metagraph/subnets/73.json",
+      "sha256": "e89f6102ce88835847bdf99c3a8807ed30ed4cc52f45ec7106cb2e752b76a1c9",
       "size_bytes": 14485
     },
     {
@@ -2737,6 +3127,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/74.json",
       "latest_key": "latest/subnets/74.json",
       "path": "/metagraph/subnets/74.json",
+      "sha256": "36387c728c9698b134cb8f3616b38588a2c0130bb63cb3e0a9ef50c6c8205c6c",
       "size_bytes": 19872
     },
     {
@@ -2744,6 +3135,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/75.json",
       "latest_key": "latest/subnets/75.json",
       "path": "/metagraph/subnets/75.json",
+      "sha256": "388680a1a4298caaf89137e9ce28c39c8ba786ae1369d638c1da9e365f7bd688",
       "size_bytes": 69894
     },
     {
@@ -2751,6 +3143,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/76.json",
       "latest_key": "latest/subnets/76.json",
       "path": "/metagraph/subnets/76.json",
+      "sha256": "a0e39f1a5ab2c917f9580dcc526b411639aa02a26efd010e2dd723d33dbc07b6",
       "size_bytes": 12577
     },
     {
@@ -2758,6 +3151,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/77.json",
       "latest_key": "latest/subnets/77.json",
       "path": "/metagraph/subnets/77.json",
+      "sha256": "6b2df30a9365f276394cbec1d341a7e26724c693f6eadaa807ce4b86548443e7",
       "size_bytes": 21405
     },
     {
@@ -2765,6 +3159,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/78.json",
       "latest_key": "latest/subnets/78.json",
       "path": "/metagraph/subnets/78.json",
+      "sha256": "45dd0e4556d3b348ec5ff20a860747c273dcc63bc60a12f4112d33e308fb7ed6",
       "size_bytes": 31416
     },
     {
@@ -2772,6 +3167,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/79.json",
       "latest_key": "latest/subnets/79.json",
       "path": "/metagraph/subnets/79.json",
+      "sha256": "4e995dbe536b9f9cfd7b8610caf8a0f2ae902865f48602c931186fa723abaf7a",
       "size_bytes": 85548
     },
     {
@@ -2779,6 +3175,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/8.json",
       "latest_key": "latest/subnets/8.json",
       "path": "/metagraph/subnets/8.json",
+      "sha256": "813720db110afcb506182a38e257d3d15577a0ae9938bb46745fe2418f8b6051",
       "size_bytes": 26515
     },
     {
@@ -2786,6 +3183,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/80.json",
       "latest_key": "latest/subnets/80.json",
       "path": "/metagraph/subnets/80.json",
+      "sha256": "84000ea436d2726ce740b8b30d5533073a60105e769777e3948681e4ce24cd29",
       "size_bytes": 21528
     },
     {
@@ -2793,6 +3191,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/81.json",
       "latest_key": "latest/subnets/81.json",
       "path": "/metagraph/subnets/81.json",
+      "sha256": "0362c90ec3c376d7e2b54eb87d63a3eb42ead41a6bc3443c57c6edcfb54164d2",
       "size_bytes": 70084
     },
     {
@@ -2800,6 +3199,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/82.json",
       "latest_key": "latest/subnets/82.json",
       "path": "/metagraph/subnets/82.json",
+      "sha256": "c9b48dc4029a828c28675f4ae3b84f867ca92af853eb8acba610458723e173a5",
       "size_bytes": 36194
     },
     {
@@ -2807,6 +3207,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/83.json",
       "latest_key": "latest/subnets/83.json",
       "path": "/metagraph/subnets/83.json",
+      "sha256": "cbe55e9a6c72b7cf3db25e630386d2618110e0a97a6e9dd8bcecf340880c2ceb",
       "size_bytes": 21437
     },
     {
@@ -2814,6 +3215,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/84.json",
       "latest_key": "latest/subnets/84.json",
       "path": "/metagraph/subnets/84.json",
+      "sha256": "e6df5f67a437340c0b98bbd3120b87c898c7d73d4fabed5a577c08d750c81a9e",
       "size_bytes": 75796
     },
     {
@@ -2821,6 +3223,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/85.json",
       "latest_key": "latest/subnets/85.json",
       "path": "/metagraph/subnets/85.json",
+      "sha256": "034591c8fdc0cf8e49c0eda9303422094c8b5ea996c42d64d755295a6ef49beb",
       "size_bytes": 21416
     },
     {
@@ -2828,6 +3231,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/86.json",
       "latest_key": "latest/subnets/86.json",
       "path": "/metagraph/subnets/86.json",
+      "sha256": "3872c5a149f96d489f3bd48b011d9db44642c5a0aa7296259a58c9fcef193747",
       "size_bytes": 12486
     },
     {
@@ -2835,6 +3239,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/87.json",
       "latest_key": "latest/subnets/87.json",
       "path": "/metagraph/subnets/87.json",
+      "sha256": "662f036003688d99f103ad2aa3de2a1e4a343adaaf949f555b4bcb4fbb29ce29",
       "size_bytes": 16996
     },
     {
@@ -2842,6 +3247,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/88.json",
       "latest_key": "latest/subnets/88.json",
       "path": "/metagraph/subnets/88.json",
+      "sha256": "1881831a1d4d16c32757481102a7532f71ed6049ebd6f46e249e8049bc5a3827",
       "size_bytes": 21473
     },
     {
@@ -2849,6 +3255,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/89.json",
       "latest_key": "latest/subnets/89.json",
       "path": "/metagraph/subnets/89.json",
+      "sha256": "53fcc74d1cb368db35c6e71da9a84754d2cac1a460687da6698cb53f65b231e7",
       "size_bytes": 19010
     },
     {
@@ -2856,6 +3263,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/9.json",
       "latest_key": "latest/subnets/9.json",
       "path": "/metagraph/subnets/9.json",
+      "sha256": "3febaf03e29b1e5d1b0a9bc3441e3ec4e380d910d25395b6c090576389a278e4",
       "size_bytes": 26440
     },
     {
@@ -2863,6 +3271,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/90.json",
       "latest_key": "latest/subnets/90.json",
       "path": "/metagraph/subnets/90.json",
+      "sha256": "d69bc0005c33e0f82f261e10cb43e258e9b6ceb089f181e9c8a42179cd26e216",
       "size_bytes": 12519
     },
     {
@@ -2870,6 +3279,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/91.json",
       "latest_key": "latest/subnets/91.json",
       "path": "/metagraph/subnets/91.json",
+      "sha256": "e4998c24632cecca44a4b42f7b78b7569a732a6e78f30e42154cd114e46188ca",
       "size_bytes": 17032
     },
     {
@@ -2877,6 +3287,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/92.json",
       "latest_key": "latest/subnets/92.json",
       "path": "/metagraph/subnets/92.json",
+      "sha256": "32e80700244b98edb40222cadda183f9e1f26e96fe701d098abb07af2b043131",
       "size_bytes": 21522
     },
     {
@@ -2884,6 +3295,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/93.json",
       "latest_key": "latest/subnets/93.json",
       "path": "/metagraph/subnets/93.json",
+      "sha256": "0decaa2768d6532866b479f43b4c0f66de14bf845b79416313a4e91855adbfaf",
       "size_bytes": 21475
     },
     {
@@ -2891,6 +3303,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/94.json",
       "latest_key": "latest/subnets/94.json",
       "path": "/metagraph/subnets/94.json",
+      "sha256": "a50659e135a691de46b71bde285d9317655a56d116e9621d071e0362417fabb9",
       "size_bytes": 21420
     },
     {
@@ -2898,6 +3311,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/95.json",
       "latest_key": "latest/subnets/95.json",
       "path": "/metagraph/subnets/95.json",
+      "sha256": "7b33f938ac07715ef563333234035117bb74a12dcde6acbfcd738e926440af5a",
       "size_bytes": 12504
     },
     {
@@ -2905,6 +3319,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/96.json",
       "latest_key": "latest/subnets/96.json",
       "path": "/metagraph/subnets/96.json",
+      "sha256": "8e470de70c630fa94a18133dc27620906e9918560d913aeda3376b7adb602b7b",
       "size_bytes": 33427
     },
     {
@@ -2912,6 +3327,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/97.json",
       "latest_key": "latest/subnets/97.json",
       "path": "/metagraph/subnets/97.json",
+      "sha256": "d6cd26ed341ec4cedb4e2c1d3f50aef39bf3473b8334b825f2a2d747ae96e7c2",
       "size_bytes": 49132
     },
     {
@@ -2919,6 +3335,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/98.json",
       "latest_key": "latest/subnets/98.json",
       "path": "/metagraph/subnets/98.json",
+      "sha256": "bce252906546290dac3413716347e8ddb8ad79c7cb418b61d4b9d784e35d8ef0",
       "size_bytes": 26772
     },
     {
@@ -2926,6 +3343,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/subnets/99.json",
       "latest_key": "latest/subnets/99.json",
       "path": "/metagraph/subnets/99.json",
+      "sha256": "88fdaf53297e7f1bec36e1c901199b11e67852a5256006886b1547deb5ac8d76",
       "size_bytes": 26316
     },
     {
@@ -2933,6 +3351,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/surfaces.json",
       "latest_key": "latest/surfaces.json",
       "path": "/metagraph/surfaces.json",
+      "sha256": "736372a789fe50e2d2ef3d993fd99b180ddcb618886923497f7f91b4c4ab6112",
       "size_bytes": 834370
     },
     {
@@ -2940,6 +3359,7 @@
       "key": "runs/1970-01-01T00-00-00-000Z/verification/latest.json",
       "latest_key": "latest/verification/latest.json",
       "path": "/metagraph/verification/latest.json",
+      "sha256": "f1b11105c63a5762c6f773bd3bd8a31a8cb10911b89f56dfbfd7857cb5f3d683",
       "size_bytes": 968127
     }
   ],

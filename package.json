@@ -17,6 +17,8 @@
     "validate": "node scripts/validate.mjs",
     "build": "node scripts/build-artifacts.mjs",
     "build:artifacts": "node scripts/build-artifacts.mjs",
+    "pipeline:check": "node scripts/pipeline.mjs --check",
+    "pipeline:refresh": "node scripts/pipeline.mjs --refresh",
     "sync:subnets": "node scripts/sync-subnets.mjs --write",
     "sync:subnets:dry-run": "node scripts/sync-subnets.mjs --dry-run",
     "discover:candidates": "node scripts/discover-candidates.mjs --write",
@@ -51,6 +53,7 @@
     "r2:upload": "node scripts/r2-upload.mjs --write",
     "kv:publish:dry-run": "node scripts/kv-publish-pointer.mjs --dry-run",
     "kv:publish": "node scripts/kv-publish-pointer.mjs --write",
+    "cloudflare:verify:dry-run": "node scripts/cloudflare-verify.mjs",
     "worker:test": "node scripts/validate-api.mjs",
     "worker:deploy:dry-run": "node scripts/worker-deploy-dry-run.mjs",
     "test": "node --test tests/*.test.mjs"

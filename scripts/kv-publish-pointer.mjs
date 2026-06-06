@@ -1,6 +1,6 @@
 import { spawnSync } from "node:child_process";
 import path from "node:path";
-import { readJson, repoRoot, stableStringify } from "./lib.mjs";
+import { hashJson, readJson, repoRoot, stableStringify } from "./lib.mjs";
 
 const args = new Set(process.argv.slice(2));
 const write = args.has("--write");
@@ -14,6 +14,7 @@ const pointer = {
   generated_at: manifest.generated_at,
   latest_prefix: manifest.latest_prefix,
   run_prefix: manifest.run_prefix,
+  manifest_hash: hashJson(manifest),
   artifact_count: manifest.artifact_count,
   native_snapshot_captured_at: freshness.summary.native_snapshot_captured_at,
   health_surface_count: freshness.summary.health_surface_count

@@ -14,6 +14,7 @@ import {
   loadVerification,
   readJson,
   repoRoot,
+  sha256Hex,
   slugify,
   writeJson
 } from "./lib.mjs";
@@ -883,6 +884,7 @@ function buildR2Manifest({ artifactSizes, generatedAt: timestamp }) {
     key: `runs/${version}/${artifact.path}`,
     latest_key: `latest/${artifact.path}`,
     path: `/metagraph/${artifact.path}`,
+    sha256: artifact.sha256,
     size_bytes: artifact.size_bytes
   }));
   return {
@@ -1071,9 +1073,11 @@ async function collectArtifactSizes(root) {
     if (["build-summary.json", "r2-manifest.json"].includes(relativePath)) {
       return;
     }
+    const raw = await fs.readFile(filePath);
     const stat = await fs.stat(filePath);
     files.push({
       path: relativePath,
+      sha256: sha256Hex(raw),
       size_bytes: stat.size
     });
   });
