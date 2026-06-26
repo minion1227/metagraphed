@@ -1,0 +1,44 @@
+{
+  "categories": [],
+  "curation": {
+    "level": "candidate-discovered",
+    "review_state": "unreviewed"
+  },
+  "name": "Leoma",
+  "netuid": 99,
+  "schema_version": 1,
+  "slug": "sn-99",
+  "status": "active",
+  "surfaces": [
+    {
+      "auth_required": false,
+      "authority": "community",
+      "id": "sn-99-leoma-subnet-api",
+      "kind": "subnet-api",
+      "name": "Leoma public scores API",
+      "provider": "leoma",
+      "public_safe": true,
+      "review": {
+        "state": "community-submitted",
+        "submitted_by": "minion1227"
+      },
+      "source_urls": ["https://leoma.ai/", "https://api.leoma.ai/openapi.json"],
+      "url": "https://api.leoma.ai/scores"
+    },
+    {
+      "auth_required": false,
+      "authority": "community",
+      "id": "sn-99-leoma-data-artifact",
+      "kind": "data-artifact",
+      "name": "Leoma miners snapshot",
+      "provider": "leoma",
+      "public_safe": true,
+      "review": {
+        "state": "community-submitted",
+        "submitted_by": "minion1227"
+      },
+      "source_urls": ["https://leoma.ai/", "https://api.leoma.ai/openapi.json"],
+      "url": "https://api.leoma.ai/miners/list"
+    }
+  ]
+}
